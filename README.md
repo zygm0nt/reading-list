@@ -21,3 +21,16 @@ are:
 Also, this repo will eventually contain not only list of books I've
 read, but also lists of movies I've watched, and lists of books
 to-be-read, etc. I like lists!
+
+
+## Legend
+
+* [A] - audiobooks
+* [R] - reread
+* [K] - comicbook
+* (*) - worth rereading
+
+## TODO
+
+* plots - plot yearly progress in each category
+* add a catalogue of books uploaded to google drive - extract metadata from epub and pdf, have cover pictures - motivation: hard to remember what's ther actually
