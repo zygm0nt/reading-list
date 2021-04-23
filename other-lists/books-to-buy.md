@@ -7,4 +7,4 @@
 * JOHN GIMLETTE - TEATR RYB
 * JOHN GIMLETTE - DZIKIE WYBRZEŻE
 * COLIN THUBRON - CIEŃ JEDWABNEGO SZLAKU
-* 
+* Czysty wymysł. Jak japońska popkultura podbiła świat https://www.znak.com.pl/ksiazka/czysty-wymysl-jak-japonska-popkultura-podbila-swiat-alt-matt-185907
