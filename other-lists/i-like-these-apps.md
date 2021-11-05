@@ -11,10 +11,12 @@ This file is for various tools 🧰  Things that might be small, or not that int
 
 * stretchly - force you to rest from time to time
 * Amethyst - a unique window manager for MacOS
+* exa - extended `ls` https://the.exa.website/
 
 
 ## Windows
 
+* reclaim Win10 - https://gist.github.com/alirobe/7f3b34ad89a159e6daa1 - disable tracking
 * https://mobaxterm.mobatek.net/
 * gvim
 * some tiling window manager
@@ -25,3 +27,9 @@ This file is for various tools 🧰  Things that might be small, or not that int
 * https://cmder.net - terminal emulator
 * https://www.ghacks.net/2019/11/02/thilmera7-is-a-free-system-monitoring-tool-for-windows/
 * https://chocolatey.org/
+
+
+## Web
+
+* excalidraw - https://excalidraw.com/ - diagraming tool
+* 
