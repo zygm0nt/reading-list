@@ -15,3 +15,11 @@
 * [ ] The Ride of a Lifetime (Bob Iger)
 * [ ] The Elephant in the Brain (Simler & Hanson)
 * [ ] War Doctor (David Nott)
+
+## On math people
+
+* [ ] Alan Turing: The Enigma By Andrew Hodges
+* [ ] A Beautiful Mind: The Life of Mathematical Genius and Nobel Laureate John Nash By Sylvia Nasar
+* [ ] Do Not Erase: Mathematicians and Their Chalkboards By Jessica Wynne
+* [ ] The Man Who Loved Only Numbers: The Story of Paul Erdos and the Search for Mathematical Truth By Paul Hoffman
+* [ ] The Man Who Knew Infinity: A Life of the Genius Ramanujan By Robert Kanigel
