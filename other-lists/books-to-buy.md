@@ -15,6 +15,18 @@
 * [ ] The Ride of a Lifetime (Bob Iger)
 * [ ] The Elephant in the Brain (Simler & Hanson)
 * [ ] War Doctor (David Nott)
+* [ ] masters of doom
+* [ ] saga compendium - komiks
+* [ ] SID MEIER PRZEDSTAWIA: WSPOMNIENIA!
+* [ ] https://czarne.com.pl/katalog/ksiazki/amur
+* [ ] https://czarne.com.pl/katalog/ksiazki/los-angeles
+* [ ] https://czarne.com.pl/katalog/ksiazki/hongkong
+* [ ] https://czarne.com.pl/katalog/ksiazki/nowy-jork
+* [ ] kryptonim bravo two zero
+* [ ] znajdujemy ich gdy są już martwi tom 1 i 2
+* [ ] Ada Palmer do błyskawicy podobne
+* [ ] Ada palmer siedem kaputulacji
+* [ ] SKÓRA I ĆWIEKI NA WIEKI - https://czarne.com.pl/katalog/ksiazki/skora-i-cwieki-na-wieki
 
 ## On math people
 
