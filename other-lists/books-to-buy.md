@@ -18,15 +18,24 @@
 * [ ] masters of doom
 * [ ] saga compendium - komiks
 * [ ] SID MEIER PRZEDSTAWIA: WSPOMNIENIA!
-* [v] https://czarne.com.pl/katalog/ksiazki/amur
-* [v] https://czarne.com.pl/katalog/ksiazki/los-angeles
-* [v] https://czarne.com.pl/katalog/ksiazki/hongkong
-* [v] https://czarne.com.pl/katalog/ksiazki/nowy-jork
-* [v] kryptonim bravo two zero
-* [v] znajdujemy ich gdy są już martwi tom 1 i 2
+* [x] https://czarne.com.pl/katalog/ksiazki/amur
+* [x] https://czarne.com.pl/katalog/ksiazki/los-angeles
+* [x] https://czarne.com.pl/katalog/ksiazki/hongkong
+* [x] https://czarne.com.pl/katalog/ksiazki/nowy-jork
+* [x] kryptonim bravo two zero
+* [x] znajdujemy ich gdy są już martwi tom 1 i 2
 * [ ] Ada Palmer do błyskawicy podobne
 * [ ] Ada palmer siedem kaputulacji
 * [ ] SKÓRA I ĆWIEKI NA WIEKI - https://czarne.com.pl/katalog/ksiazki/skora-i-cwieki-na-wieki
+* [ ] Adi Polak "Scaling ML with Spark"
+* [ ] William Gibson
+   * [ ]  Trylogia ciągu
+   * [ ]  Trylogia mostu
+   * [ ]  Peryferal + agency
+   * [ ]  Thrillers:
+       * [ ] Pattern recoginition
+       * [ ] spook country
+       * [ ] zero history
 
 ## On math people
 
