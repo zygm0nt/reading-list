@@ -18,12 +18,12 @@
 * [ ] masters of doom
 * [ ] saga compendium - komiks
 * [ ] SID MEIER PRZEDSTAWIA: WSPOMNIENIA!
-* [ ] https://czarne.com.pl/katalog/ksiazki/amur
-* [ ] https://czarne.com.pl/katalog/ksiazki/los-angeles
-* [ ] https://czarne.com.pl/katalog/ksiazki/hongkong
-* [ ] https://czarne.com.pl/katalog/ksiazki/nowy-jork
-* [ ] kryptonim bravo two zero
-* [ ] znajdujemy ich gdy są już martwi tom 1 i 2
+* [v] https://czarne.com.pl/katalog/ksiazki/amur
+* [v] https://czarne.com.pl/katalog/ksiazki/los-angeles
+* [v] https://czarne.com.pl/katalog/ksiazki/hongkong
+* [v] https://czarne.com.pl/katalog/ksiazki/nowy-jork
+* [v] kryptonim bravo two zero
+* [v] znajdujemy ich gdy są już martwi tom 1 i 2
 * [ ] Ada Palmer do błyskawicy podobne
 * [ ] Ada palmer siedem kaputulacji
 * [ ] SKÓRA I ĆWIEKI NA WIEKI - https://czarne.com.pl/katalog/ksiazki/skora-i-cwieki-na-wieki
