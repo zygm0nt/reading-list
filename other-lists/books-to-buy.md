@@ -29,8 +29,8 @@
 * [ ] SKÓRA I ĆWIEKI NA WIEKI - https://czarne.com.pl/katalog/ksiazki/skora-i-cwieki-na-wieki
 * [ ] Adi Polak "Scaling ML with Spark"
 * [ ] William Gibson
-   * [ ]  Trylogia ciągu
-   * [ ]  Trylogia mostu
+   * [x]  Trylogia ciągu
+   * [x]  Trylogia mostu
    * [ ]  Peryferal + agency
    * [ ]  Thrillers:
        * [ ] Pattern recoginition
