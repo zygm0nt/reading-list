@@ -7,7 +7,6 @@
 * [ ] JOHN GIMLETTE - TEATR RYB
 * [ ] JOHN GIMLETTE - DZIKIE WYBRZEŻE
 * [ ] COLIN THUBRON - CIEŃ JEDWABNEGO SZLAKU
-* [x] Czysty wymysł. Jak japońska popkultura podbiła świat https://www.znak.com.pl/ksiazka/czysty-wymysl-jak-japonska-popkultura-podbila-swiat-alt-matt-185907
 * [ ] http://mazesforprogrammers.com/
 * [ ] How to Think More About Sex (Alain de Botton)
 * [ ] Storyworthy (Matthew Dicks)
@@ -18,24 +17,18 @@
 * [ ] masters of doom
 * [ ] saga compendium - komiks
 * [ ] SID MEIER PRZEDSTAWIA: WSPOMNIENIA!
-* [x] https://czarne.com.pl/katalog/ksiazki/amur
-* [x] https://czarne.com.pl/katalog/ksiazki/los-angeles
-* [x] https://czarne.com.pl/katalog/ksiazki/hongkong
-* [x] https://czarne.com.pl/katalog/ksiazki/nowy-jork
-* [x] kryptonim bravo two zero
-* [x] znajdujemy ich gdy są już martwi tom 1 i 2
 * [ ] Ada Palmer do błyskawicy podobne
 * [ ] Ada palmer siedem kaputulacji
 * [ ] SKÓRA I ĆWIEKI NA WIEKI - https://czarne.com.pl/katalog/ksiazki/skora-i-cwieki-na-wieki
 * [ ] Adi Polak "Scaling ML with Spark"
 * [ ] William Gibson
-   * [x]  Trylogia ciągu
-   * [x]  Trylogia mostu
    * [ ]  Peryferal + agency
    * [ ]  Thrillers:
        * [ ] Pattern recoginition
        * [ ] spook country
        * [ ] zero history
+ * [ ] Wade Davis "Wąż i tęcza. Voodoo, zombie"
+ * [ ] Tom Wolfe "Próba kwasu w elektrycznej oranżadzie"
 
 ## On math people
 
@@ -44,3 +37,17 @@
 * [ ] Do Not Erase: Mathematicians and Their Chalkboards By Jessica Wynne
 * [ ] The Man Who Loved Only Numbers: The Story of Paul Erdos and the Search for Mathematical Truth By Paul Hoffman
 * [ ] The Man Who Knew Infinity: A Life of the Genius Ramanujan By Robert Kanigel
+
+
+## Bought
+
+* [x] Czysty wymysł. Jak japońska popkultura podbiła świat https://www.znak.com.pl/ksiazka/czysty-wymysl-jak-japonska-popkultura-podbila-swiat-alt-matt-185907
+* [ ] William Gibson
+   * [x]  Trylogia ciągu
+   * [x]  Trylogia mostu
+* [x] https://czarne.com.pl/katalog/ksiazki/amur
+* [x] https://czarne.com.pl/katalog/ksiazki/los-angeles
+* [x] https://czarne.com.pl/katalog/ksiazki/hongkong
+* [x] https://czarne.com.pl/katalog/ksiazki/nowy-jork
+* [x] kryptonim bravo two zero
+* [x] znajdujemy ich gdy są już martwi tom 1 i 2
