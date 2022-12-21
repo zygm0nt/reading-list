@@ -22,7 +22,7 @@
 * [ ] SKÓRA I ĆWIEKI NA WIEKI - https://czarne.com.pl/katalog/ksiazki/skora-i-cwieki-na-wieki
 * [ ] Adi Polak "Scaling ML with Spark"
 * [ ] William Gibson
-   * [ ]  Peryferal + agency
+   * [ ]  Agency
    * [ ]  Thrillers:
        * [ ] Pattern recoginition
        * [ ] spook country
@@ -45,6 +45,7 @@
 * [ ] William Gibson
    * [x]  Trylogia ciągu
    * [x]  Trylogia mostu
+   * [x]  Peryferal
 * [x] https://czarne.com.pl/katalog/ksiazki/amur
 * [x] https://czarne.com.pl/katalog/ksiazki/los-angeles
 * [x] https://czarne.com.pl/katalog/ksiazki/hongkong
