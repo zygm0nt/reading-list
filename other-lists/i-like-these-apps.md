@@ -5,6 +5,7 @@ This file is for various tools 🧰  Things that might be small, or not that int
 
 * handbreak - video encoding tool
 * flameshot - [link](https://github.com/flameshot-org/flameshot) - screen grabing and annotating tool, simple and lightweight
+* fzf
 
 
 ## MacOS
@@ -12,6 +13,8 @@ This file is for various tools 🧰  Things that might be small, or not that int
 * stretchly - force you to rest from time to time
 * Amethyst - a unique window manager for MacOS
 * exa - extended `ls` https://the.exa.website/
+* fzf
+* keepass xc
 
 
 ## Windows
@@ -27,9 +30,29 @@ This file is for various tools 🧰  Things that might be small, or not that int
 * https://cmder.net - terminal emulator
 * https://www.ghacks.net/2019/11/02/thilmera7-is-a-free-system-monitoring-tool-for-windows/
 * https://chocolatey.org/
+* editpadlite
+* textexpander
+* everything - search all the things on Windows
+* simplysign
 
 
 ## Web
 
 * excalidraw - https://excalidraw.com/ - diagraming tool
+* todois
+* canva
+* 
+
+## IOS
+
+* dashlane
+* tinyscanner
+* flambird
+* keepass touch
+* iverify
+* kanarek
+
+## interesting apps
+
+* bear - notes app for mac
 * 
