@@ -9,12 +9,12 @@ According to: http://www.rockpapershotgun.com/2015/06/12/best-adventure-games/
 7. Monkey Island 2: LeChuck’s Revenge
 8. Space Quest IV
 9. Time Gentlemen Please
-10. The Dig
+10. The Dig [IN PROGRESS}
 11. Kentucky Route Zero
 12. Full Throttle
 13. Machinarium
 14. To The Moon
-15. Broken Sword
+15. Broken Sword [IN PROGRESS}
 16. Fahrenheit
 17. Gabriel Knight [DONE]
 18. The Blackwell Series
