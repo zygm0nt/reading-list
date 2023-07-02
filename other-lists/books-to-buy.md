@@ -29,6 +29,8 @@
        * [ ] zero history
  * [ ] Wade Davis "Wąż i tęcza. Voodoo, zombie"
  * [ ] Tom Wolfe "Próba kwasu w elektrycznej oranżadzie"
+ * [ ] Andy Greenberg "Tracers in the dark"
+ * [ ] Andy Greenberg "Sandworm"
 
 ## On math people
 
