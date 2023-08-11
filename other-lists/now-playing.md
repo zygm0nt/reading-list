@@ -3,4 +3,6 @@
 3. Gabriel Knight 2
 4. System Shock
 5. Zelda: Breath of the Wild
-6. 
+6. Metroid Dread
+7. 
+
