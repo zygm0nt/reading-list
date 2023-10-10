@@ -35,3 +35,5 @@
 - alpha centauri [gog]
 + prehistorik 2 [gog] http://pre2.mine.nu/techdocs.htm
 - Company of heroes [?]
+- The Lamplighters League - https://store.steampowered.com/agecheck/app/1167750/
+- Return to Castle Wolfenstein (mod) - RealRTCW - https://store.steampowered.com/app/1379630/RealRTCW/
