@@ -32,6 +32,24 @@
  * [ ] Andy Greenberg "Tracers in the dark"
  * [ ] Andy Greenberg "Sandworm"
 
+## To be considered
+
+ * [ ] Axions' End
+ * [ ] Half Baked Harvest - Tieghan Gerard
+ * [ ] Interactive Data Visualization for the Web
+ * [ ] Love * Math - Edward Frenkel
+ * [ ] Math without numers - Milo Beckman
+ * [ ] colorful Palete - raj Tamney
+ * [ ] The coming wave - Mustafa Suleyman
+ * [ ] Foreign Books - Simon Schauman
+ * [ ] How not to be wrong - Jordan Ellenberg
+ * [ ] Noise. A flaw in human judgement - Daniel Kahneman
+ * [ ] The age of AI - Kissinger, Schmidt, Hutten...
+ * [ ] SPQR, a history of ancient Rome - Mary Beard
+ * [ ] Twelve caesars - Mary Beard
+ * [ ] Surely you're koing mr.Feynman - Richard Feynman
+ * [ ] Attac on titan - omnibus
+
 ## On math people
 
 * [ ] Alan Turing: The Enigma By Andrew Hodges
