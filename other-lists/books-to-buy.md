@@ -49,6 +49,7 @@
  * [ ] Twelve caesars - Mary Beard
  * [ ] Surely you're koing mr.Feynman - Richard Feynman
  * [ ] Attac on titan - omnibus
+ * [ ] The seven milion dollar spy by David Wise
 
 ## On math people
 
