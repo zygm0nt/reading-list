@@ -37,3 +37,10 @@
 - Company of heroes [?]
 - The Lamplighters League - https://store.steampowered.com/agecheck/app/1167750/
 - Return to Castle Wolfenstein (mod) - RealRTCW - https://store.steampowered.com/app/1379630/RealRTCW/
+
+## Nintendo 64
+- 007: The World's not enough
+- Donkey Kong 64
+- Paper Mario
+- Shadow Man
+- Star Wars Rogue Squadron
