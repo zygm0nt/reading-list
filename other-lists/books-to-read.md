@@ -7,6 +7,53 @@
 - Lary Niven "Pierścień"
 - Neal Stephenon "Diamentowy wiek"
 
+-  „Pamiętnik z Powstania” Białoszewskiego
+„Wojnę i pokój” Tołstoj
+„Szkoła uczuć” Flauberta 
+Dhammapada
+T. Mann “Czarodziejska gora”
+Steinbeck “Grona gniewu”
+M.V. Llosa “Gawedziarz”
+A. S. Exupery “Maly ksiaze”
+“Przenicowany świat” Strugackich
+“Fenotyp rozszerzony” Dawkinsa
+Herman Melville “Moby Dick”
+‘W poszukiwaniu straconego czasu’ Marcel Proust
+Julio Cortázar “Gra w klasy”
+Samuel Beckett “Czekając na Godota”
+"Fictions", "The Aleph" Borges
+"Invisible Cities" Calvino
+"An introduction to general systems thinking" Weinberg
+"Data and Reality" Kent
+Patterns of Software - Gabriel
+The Image of the City - Lynch
+Seeing like a State - Scott
+"Dream machine"
+Alberta Camusa - "Obcy", "Dżuma"
+Thomas Pynchon "Gravity's Rainbow"
+Thomas Ligotti - inspiration for "True Detective"
+Henry Miller (?!) - evaluating
+Labyrinths by Jorge Luis Borges
+The Bear by William Faulkner
+The Most Human Human: What Artificial Intelligence Teaches Us About Being Alive by Brian Christian
+Last and First Men by Olaf Stapledon
+How to Lie with Statistics by Darrell Huff and Irving Geis.
+Dragnet Nation: A Quest for Privacy, Security and Freedom in a World of Relentless Surveillance by Julia Angwin
+Gombrowicz "Transatlantyk"
+Commonwelth Writers: Zadie Smith, Salman Rushdie, Harif Keureshi "Budda z przedmieścia"
+Philip Roth
+"śnieg" ORhan pamuk
+The Rise and Fall of the Third Reich: A History of Nazi Germany - William L. Shirer
+Ed Gibbon "The Decline and Fall of the Roman Empire, vol. 1-6"
+Tinker, Tailor, Soldier, Spy) – to powieść Johna le Carré, stanowiąca pierwszy tom serii trzech książek, nieoficjalnie nazywanych jako Trylogia Karli (The Karla Trilogy).
+Hemingway "A farewell to arms", "The old man and the see"
+https://en.wikipedia.org/wiki/Inverted_World
+Economics: The User's Guide by Ha-Joon Chang
+child 44
+inna dusza - orbitowski
+gene wolfe "book of the new sun"
+
+
 ## Seria amerykańska (Czarne)
 
 - Detroit, sekcja zwłok ameryki
