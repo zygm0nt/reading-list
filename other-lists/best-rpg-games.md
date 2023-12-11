@@ -24,3 +24,29 @@ Acording to http://www.rockpapershotgun.com/2015/07/10/best-rpg/
 22. Ultima VII: The Complete Edition
 23. Planescape: Torment
 24. Dark Souls
+
+
+But than from these two very interesting esseys: 
+- https://www.youtube.com/watch?v=A9dfgebzc8A&list=WL&index=4&t=1729s
+- https://www.youtube.com/watch?v=hDZMWmXJRC4
+
+There are some more entertaining games, I could play:
+
+* Baldur's Gate II
+* Star Wars: KOTOR
+* Skyrim
+* Disco Elysium
+* Wiedźmin 3
+* Pillars of Eternity
+* Wasteland 3
+* Planescape: Torment
+* Icewind Dale 2
+* Neverwinter Nights 2
+* Divinity: Original Sin 2
+* Baldur's Gate 3
+* Diablo 2
+* DARK SOULS
+* Bloodborne
+* Elden Ring
+* Deus Ex
+* System Shock 2
