@@ -157,4 +157,4 @@
 - Mustafa Suleyman "The coming wave"
 - Schwarzenenger "Be useful: Seven tools for life"
 - https://www.gatesnotes.com/The-Song-of-the-Cell
-- 
+- "Tracers in the dark" https://lubimyczytac.pl/ksiazka/5037022/tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-cryptocurrency
