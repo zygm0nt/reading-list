@@ -52,6 +52,7 @@
 -  child 44
 -  inna dusza - orbitowski
 -  gene wolfe "book of the new sun"
+-  greg egan - https://www.goodreads.com/book/show/156784.Permutation_City
 
 
 ## Seria amerykańska (Czarne)
