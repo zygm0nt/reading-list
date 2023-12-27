@@ -1,17 +1,13 @@
-- Thomas Mann "The Magical Mountain"
-- "Moby Dick"
 - Culture series https://en.wikipedia.org/wiki/Culture_series - from Iain M. Banks
   - Wspomnienie Phlebasa"
   - Gracz
-- Rebeca Ore "ZAbawki Gai"
+- Rebeca Ore "Zabawki Gai"
 - Lary Niven "Pierścień"
-- Neal Stephenon "Diamentowy wiek"
+- Neal Stephenson "Diamentowy wiek"
 
 -  „Pamiętnik z Powstania” Białoszewskiego
--  „Wojnę i pokój” Tołstoj
 -  „Szkoła uczuć” Flauberta 
 -  Dhammapada
--  T. Mann “Czarodziejska gora”
 -  Steinbeck “Grona gniewu”
 -  M.V. Llosa “Gawedziarz”
 -  A. S. Exupery “Maly ksiaze”
@@ -19,7 +15,6 @@
 -  “Fenotyp rozszerzony” Dawkinsa
 -  Herman Melville “Moby Dick”
 -  ‘W poszukiwaniu straconego czasu’ Marcel Proust
--  Julio Cortázar “Gra w klasy”
 -  Samuel Beckett “Czekając na Godota”
 -  "Fictions", "The Aleph" Borges
 -  "Invisible Cities" Calvino
@@ -39,14 +34,11 @@
 -  Last and First Men by Olaf Stapledon
 -  How to Lie with Statistics by Darrell Huff and Irving Geis.
 -  Dragnet Nation: A Quest for Privacy, Security and Freedom in a World of Relentless Surveillance by Julia Angwin
--  Gombrowicz "Transatlantyk"
 -  !! Commonwelth Writers: Zadie Smith, Salman Rushdie, Harif Keureshi "Budda z przedmieścia"
--  Philip Roth
 -  "śnieg" ORhan pamuk
 -  The Rise and Fall of the Third Reich: A History of Nazi Germany - William L. Shirer
 -  Ed Gibbon "The Decline and Fall of the Roman Empire, vol. 1-6"
 -  Tinker, Tailor, Soldier, Spy) – to powieść Johna le Carré, stanowiąca pierwszy tom serii trzech książek, nieoficjalnie nazywanych jako Trylogia Karli (The Karla Trilogy).
--  Hemingway "A farewell to arms", "The old man and the see"
 -  https://en.wikipedia.org/wiki/Inverted_World
 -  Economics: The User's Guide by Ha-Joon Chang
 -  child 44
@@ -99,34 +91,6 @@
 - Ed Vulliany "Ameksyka"
 
 
-# Literaturat świata
-
-## USA
-
-- Patric WHite "Voss"
-- Lot nad kukułczym gniazdem
-- Lista Schindlera
-- Życie Pi
-- Puzo "Sycylijczyk"
-- Fitzgerald "Wielki Gatsby"
-- Bruce Chatwin "W Patagonii"
-
-## Ibero
-
-- Cortazar "Gra w klasy"
-- Marquez "Miłość w czasach zarazy"
--  - "Sto lat samotoności"
-   - Krawka Zapowiedzianej ziemii"
-- Vallejo
-- Mayoral
-- Samoza
-
-## Rosja
-
-- Dostojewski "Bracia Karamazow"
-- Dostojewski "Biesy"
-- Tołstoj
-
 # Inne
 
 ## Ot klasyka
@@ -134,7 +98,7 @@
 - A. MacLean "Działa NAwaronny"
 - Camus "Dżuma"
 - Iwaszkiewicz "Opowiadania"
-- HErman Hesse "Wilk stepowy"
+- Herman Hesse "Wilk stepowy"
 - Konwicki "Mała apokalipsa"
 - Conrad "Tajny agent"
 - Gombrowicz "Trans-Atlantyk"
