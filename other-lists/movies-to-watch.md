@@ -1,5 +1,5 @@
 - (done) The North Water (HBO)
-- Band of Brothers (HBO)
+- (done) Band of Brothers (HBO)
 - Dopesick (Disney+)
 - Midnight Mass (Netflix)
 - Station Eleven (HBO)
