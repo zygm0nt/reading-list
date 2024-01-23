@@ -19,7 +19,7 @@
 * [ ] SID MEIER PRZEDSTAWIA: WSPOMNIENIA!
 * [ ] Ada Palmer do błyskawicy podobne
 * [ ] Ada palmer siedem kaputulacji
-* [ ] SKÓRA I ĆWIEKI NA WIEKI - https://czarne.com.pl/katalog/ksiazki/skora-i-cwieki-na-wieki
+* [x] SKÓRA I ĆWIEKI NA WIEKI - https://czarne.com.pl/katalog/ksiazki/skora-i-cwieki-na-wieki
 * [ ] Adi Polak "Scaling ML with Spark"
 * [ ] William Gibson
    * [ ]  Agency
@@ -49,7 +49,8 @@
  * [ ] Twelve caesars - Mary Beard
  * [ ] Surely you're koing mr.Feynman - Richard Feynman
  * [ ] Attac on titan - omnibus
- * [ ] The seven milion dollar spy by David Wise
+ * [ ] The Seven Million Dollar Spy by David Wise (Paweł ma)
+ * [ ] Probably Overthinking It: How to Use Data to Answer Questions, Avoid Statistical Traps, and Make Better Decisions 
 
 ## On math people
 
