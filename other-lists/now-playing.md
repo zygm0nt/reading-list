@@ -4,5 +4,6 @@
 4. System Shock
 5. Zelda: Breath of the Wild
 6. Metroid Dread [DONE]
-7. 
+7. Dredge [DONE]
+8. 
 
