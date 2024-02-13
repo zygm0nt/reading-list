@@ -5,5 +5,7 @@
 5. Zelda: Breath of the Wild
 6. Metroid Dread [DONE]
 7. Dredge [DONE]
-8. 
+8. Chrono Trigger
+9. Call of the Sea
+10. 
 
