@@ -60,6 +60,8 @@
 * [ ] The Man Who Loved Only Numbers: The Story of Paul Erdos and the Search for Mathematical Truth By Paul Hoffman
 * [ ] The Man Who Knew Infinity: A Life of the Genius Ramanujan By Robert Kanigel
 
+* [ ] Trigonometric Delights: https://press.princeton.edu/books/paperback/9780691202198/trigonometric-delights
+* [ ] The Eternal Darkness: https://press.princeton.edu/books/paperback/9780691175621/the-eternal-darkness
 
 ## Bought
 
