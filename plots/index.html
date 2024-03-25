@@ -1,0 +1,53 @@
+
+<html>
+<head>
+<title>Yearly Data Visualization</title>
+<style>
+body { font-family: Arial, sans-serif; padding: 20px; }
+.grid-container { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px; }
+.grid-item { padding: 10px; background-color: #f0f0f0; border: 1px solid #ddd; }
+.grid-item img { width: 100%; height: auto; cursor: pointer; }
+#modal { display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgb(0,0,0,0.9); }
+.modal-content { margin: 10% auto; display: block; width: 80%; max-width: 700px; }
+.close { position: absolute; top: 15px; right: 35px; color: #f1f1f1; font-size: 40px; font-weight: bold; cursor: pointer; }
+</style>
+<script>
+function enlargeImage(src) {
+    document.getElementById("img01").src = src;
+    document.getElementById("modal").style.display = "block";
+}
+function closeModal() {
+    document.getElementById("modal").style.display = "none";
+}
+</script>
+</head>
+<body>
+
+<h1>Yearly Data Visualization</h1>
+<p>Below is the data visualized for each year. Click on an image to enlarge it.</p>
+<div class="grid-container">
+<div class="grid-item"><strong>2011</strong><br><img src="2011.png" alt="Data for 2011" onclick="enlargeImage(this.src)"></div>
+<div class="grid-item"><strong>2012</strong><br><img src="2012.png" alt="Data for 2012" onclick="enlargeImage(this.src)"></div>
+<div class="grid-item"><strong>2013</strong><br><img src="2013.png" alt="Data for 2013" onclick="enlargeImage(this.src)"></div>
+<div class="grid-item"><strong>2014</strong><br><img src="2014.png" alt="Data for 2014" onclick="enlargeImage(this.src)"></div>
+<div class="grid-item"><strong>2015</strong><br><img src="2015.png" alt="Data for 2015" onclick="enlargeImage(this.src)"></div>
+<div class="grid-item"><strong>2016</strong><br><img src="2016.png" alt="Data for 2016" onclick="enlargeImage(this.src)"></div>
+<div class="grid-item"><strong>2017</strong><br><img src="2017.png" alt="Data for 2017" onclick="enlargeImage(this.src)"></div>
+<div class="grid-item"><strong>2018</strong><br><img src="2018.png" alt="Data for 2018" onclick="enlargeImage(this.src)"></div>
+<div class="grid-item"><strong>2019</strong><br><img src="2019.png" alt="Data for 2019" onclick="enlargeImage(this.src)"></div>
+<div class="grid-item"><strong>2020</strong><br><img src="2020.png" alt="Data for 2020" onclick="enlargeImage(this.src)"></div>
+<div class="grid-item"><strong>2021</strong><br><img src="2021.png" alt="Data for 2021" onclick="enlargeImage(this.src)"></div>
+<div class="grid-item"><strong>2022</strong><br><img src="2022.png" alt="Data for 2022" onclick="enlargeImage(this.src)"></div>
+<div class="grid-item"><strong>2023</strong><br><img src="2023.png" alt="Data for 2023" onclick="enlargeImage(this.src)"></div>
+<div class="grid-item"><strong>2024</strong><br><img src="2024.png" alt="Data for 2024" onclick="enlargeImage(this.src)"></div>
+
+</div>
+
+<!-- The Modal -->
+<div id="modal" onclick="closeModal()">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img01">
+</div>
+
+</body>
+</html>
