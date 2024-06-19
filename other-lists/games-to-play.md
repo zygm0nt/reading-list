@@ -38,6 +38,9 @@
 - The Lamplighters League - https://store.steampowered.com/agecheck/app/1167750/
 - Return to Castle Wolfenstein (mod) - RealRTCW - https://store.steampowered.com/app/1379630/RealRTCW/
 
+- doom
+  -  doom sigil - mod od Johna Romero  https://romero.com/sigil
+
 ## Nintendo 64
 - 007: The World's not enough
 - Donkey Kong 64
