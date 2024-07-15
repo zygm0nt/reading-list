@@ -45,7 +45,12 @@
 -  inna dusza - orbitowski
 -  gene wolfe "book of the new sun"
 -  greg egan - https://www.goodreads.com/book/show/156784.Permutation_City
-
+-  the maniac - https://www.nytimes.com/2023/09/29/books/review/benjamin-labatut-the-maniac.html
+-  Marek Huberath "Balsam długiego pożegnania"
+-  Afryka to nie państwo
+-  Uwierz w plan. Skd si wził QAnon i jak namieszał w Ameryce
+-  Arthur C. Clarke - cykle Rama
+-  
 
 ## Seria amerykańska (Czarne)
 
