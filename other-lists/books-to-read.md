@@ -50,7 +50,11 @@
 -  Afryka to nie państwo
 -  Uwierz w plan. Skd si wził QAnon i jak namieszał w Ameryce
 -  Arthur C. Clarke - cykle Rama
--  
+-  Niech żyje polska Hura
+-  Opowieści praskie
+-  Artur Szrejter - Robimy rewolucj
+-  Xavras wyzryn i inne fikcje
+-  Feliks W. Kres 
 
 ## Seria amerykańska (Czarne)
 
