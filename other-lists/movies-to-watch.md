@@ -1,5 +1,26 @@
-- (done) The North Water (HBO)
-- (done) Band of Brothers (HBO)
-- Dopesick (Disney+)
-- Midnight Mass (Netflix)
-- Station Eleven (HBO)
+- [x] The North Water (HBO)
+- [x] Band of Brothers (HBO)
+- [ ] Dopesick (Disney+)
+- [ ] Midnight Mass (Netflix)
+- [ ] Station Eleven (HBO)
+- [ ] The Symphatizer
+- [ ] Tokyo Vice
+- [ ] Scavengers Reign
+- [ ] Samurai Jack
+- [ ] Batham: The Doom that came to Gotham
+- [ ] Children of Men
+- [ ] Close Encounters of The Third Kind
+- [ ] Men
+- [ ] Blade Runner
+- [ ] Blade Runner: 2xx
+- [x] Interstellar
+- [ ] Samaritan
+- [ ] Dune part 1
+- [ ] Dune part 2
+- [ ] The Lobster
+- [ ] Tenet
+- [x] Inception
+- [ ] Sisu
+- [x] Shogun
+- [x] Ripley
+- [x] True Detective
