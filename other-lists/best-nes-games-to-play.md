@@ -20,4 +20,9 @@ From https://www.nintendolife.com/guides/50-best-nes-games-of-all-time?page=5
 18. Dragon Warrior III
 19. Super C
 20. Castlevania
-21. 
+21. Super Metroid: Zero Mission
+22. Kick Master
+23. Chip i Dale
+24. Godzilla 2
+25. Dr.Mario
+26. Darkwing Duck
