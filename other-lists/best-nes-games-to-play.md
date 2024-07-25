@@ -17,12 +17,13 @@ From https://www.nintendolife.com/guides/50-best-nes-games-of-all-time?page=5
 15. Teenage Mutant Ninja Turtle III: The Manhattan Project
 16. Dragon Warrior IV
 17. Batman: The Video Game
-18. Dragon Warrior III
-19. Super C
-20. Castlevania
-21. Super Metroid: Zero Mission
-22. Kick Master
-23. Chip i Dale
-24. Godzilla 2
-25. Dr.Mario
-26. Darkwing Duck
+18. Batman: Return of Joke
+19. Dragon Warrior III
+20. Darkwing Duck
+21. Super C
+22. Castlevania
+23. Super Metroid: Zero Mission
+24. Kick Master
+25. Chip i Dale
+26. Godzilla 2
+27. Dr.Mario
