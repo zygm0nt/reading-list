@@ -3,10 +3,15 @@
 3. Gabriel Knight 2 https://www.walkthroughking.com/text/gabrielknight2.aspx
 4. System Shock
 5. Zelda: Breath of the Wild
-6. Metroid Dread [DONE]
-7. Dredge [DONE]
-8. Chrono Trigger [STUCK] Can't win Magus fight
-9. Call of the Sea
-10. Prince of Persia: The Lost Crown [Done]
-11. 
+6. Call of the Sea
 
+
+
+
+## DONE
+
+1. Metroid Dread 
+2. Dredge 
+3. Chrono Trigger [STUCK] Can't win Magus fight
+4. Prince of Persia: The Lost Crown
+5. 
