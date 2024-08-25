@@ -99,6 +99,10 @@
 - Bartlett "Królowa kryptowalut"
 - Ed Vulliany "Ameksyka"
 
+- Paweł Pieniążek "Opór. Ukraińcy wobec rosyjskiej inwazji "
+-  Imperium. Podróż po Cesarstwie Rzymskim śladem jednej monety
+- Paweł Tarczyński  "Rozkład. O niedemokracji w Ameryce "
+
 
 # Inne
 
@@ -123,7 +127,8 @@
 - Baggott "Higgs. Odkrycie boskiej cząstki"
 - Lehman, POsanentier "Niezwykłe liczby Fibonacciego"
 - Gardner "Ostatnie rozrywki"
-
+- Max Solomon Bennett "A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains"
+- 
 ## Po angielsku
 
 - Zehe Faux "Number go up" (crypto)
@@ -132,3 +137,10 @@
 - Schwarzenenger "Be useful: Seven tools for life"
 - https://www.gatesnotes.com/The-Song-of-the-Cell
 - "Tracers in the dark" https://lubimyczytac.pl/ksiazka/5037022/tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-cryptocurrency
+
+## Komiksy
+
+- The Good Asian. Dobry Azjata.
+-  Skarga Utraconych Ziem
+-  Wilk morski
+-   Zniszczyć wszystkie potwory 
