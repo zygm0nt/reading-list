@@ -14,4 +14,5 @@
 2. Dredge 
 3. Chrono Trigger [STUCK] Can't win Magus fight
 4. Prince of Persia: The Lost Crown
-5. 
+5. King's Quest I
+6. 
