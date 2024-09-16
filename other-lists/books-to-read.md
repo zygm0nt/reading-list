@@ -117,6 +117,8 @@
 - Konwicki "Mała apokalipsa"
 - Conrad "Tajny agent"
 - Gombrowicz "Trans-Atlantyk"
+- "Andromeda Strain"
+- Robert Silverberg "
 
 ## Naukowe
 
