@@ -47,10 +47,11 @@
 - Paper Mario
 - Shadow Man
 - Star Wars Rogue Squadron
-
+- Perfect dark (N64)
+  
 ## Z jakiegoś streama
 
-- Perfect darkness
+
 - Metal slug
 - The legend of Zelda echos of wisdom
 - Harvest moon
