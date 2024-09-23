@@ -8,7 +8,7 @@ From: https://www.nintendolife.com/guides/50-best-nintendo-64-games-of-all-time?
 6. Star Wars: Rogue Squadron
 7. Mario Party 2
 8. Super Smash Bros
-9. Perfect Dark
+9. Perfect Dark https://en.wikipedia.org/wiki/Perfect_Dark
 10. Paper Mario
 11. Super Mario 64
 12. Golden Eye 007
