@@ -47,3 +47,12 @@
 - Paper Mario
 - Shadow Man
 - Star Wars Rogue Squadron
+
+## Z jakiegoś streama
+
+- Perfect darkness
+- Metal slug
+- The legend of Zelda echos of wisdom
+- Harvest moon
+- Gzdoom
+- Black mesa
