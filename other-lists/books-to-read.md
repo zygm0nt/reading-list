@@ -54,7 +54,13 @@
 -  Opowieści praskie
 -  Artur Szrejter - Robimy rewolucj
 -  Xavras wyzryn i inne fikcje
--  Feliks W. Kres 
+-  Feliks W. Kres
+-  Krzysztof Kochański "Baszta czarownic"
+-  Antologia Frostpunk
+-  Jerzy Nowosad
+-  Jawnogrzesznica - zbiór opowiadań
+-  Rafał Orkan
+-  Jakub Nowak "Amnezjak"
 
 ## Seria amerykańska (Czarne)
 
