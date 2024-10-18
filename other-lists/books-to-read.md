@@ -123,8 +123,10 @@
 - Konwicki "Mała apokalipsa"
 - Conrad "Tajny agent"
 - Gombrowicz "Trans-Atlantyk"
-- "Andromeda Strain"
+- Crichton "Andromeda Strain"
 - Robert Silverberg "
+  - Zamek Lorda Valentina
+  - Kroniki Mojiporu  
 
 ## Naukowe
 
