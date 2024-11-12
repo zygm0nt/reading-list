@@ -10,7 +10,6 @@
 * [ ] http://mazesforprogrammers.com/
 * [ ] How to Think More About Sex (Alain de Botton)
 * [ ] Storyworthy (Matthew Dicks)
-* [ ] How To Take Smart Notes (Sonke Ahrens)
 * [ ] The Ride of a Lifetime (Bob Iger)
 * [ ] The Elephant in the Brain (Simler & Hanson)
 * [ ] War Doctor (David Nott)
@@ -19,7 +18,6 @@
 * [ ] SID MEIER PRZEDSTAWIA: WSPOMNIENIA!
 * [ ] Ada Palmer do błyskawicy podobne
 * [ ] Ada palmer siedem kaputulacji
-* [x] SKÓRA I ĆWIEKI NA WIEKI - https://czarne.com.pl/katalog/ksiazki/skora-i-cwieki-na-wieki
 * [ ] Adi Polak "Scaling ML with Spark"
 * [ ] William Gibson
    * [ ]  Agency
@@ -30,7 +28,7 @@
  * [ ] Wade Davis "Wąż i tęcza. Voodoo, zombie"
  * [ ] Tom Wolfe "Próba kwasu w elektrycznej oranżadzie"
  * [ ] Andy Greenberg "Tracers in the dark"
- * [ ] Andy Greenberg "Sandworm"
+
 
 ## To be considered
 
@@ -40,7 +38,6 @@
  * [ ] Love * Math - Edward Frenkel
  * [ ] Math without numers - Milo Beckman
  * [ ] colorful Palete - raj Tamney
- * [ ] The coming wave - Mustafa Suleyman
  * [ ] Foreign Books - Simon Schauman
  * [ ] How not to be wrong - Jordan Ellenberg
  * [ ] Noise. A flaw in human judgement - Daniel Kahneman
@@ -63,7 +60,7 @@
 * [ ] Trigonometric Delights: https://press.princeton.edu/books/paperback/9780691202198/trigonometric-delights
 * [ ] The Eternal Darkness: https://press.princeton.edu/books/paperback/9780691175621/the-eternal-darkness
 
-## Bought
+## Bought / Read
 
 * [x] Czysty wymysł. Jak japońska popkultura podbiła świat https://www.znak.com.pl/ksiazka/czysty-wymysl-jak-japonska-popkultura-podbila-swiat-alt-matt-185907
 * [ ] William Gibson
@@ -76,3 +73,7 @@
 * [x] https://czarne.com.pl/katalog/ksiazki/nowy-jork
 * [x] kryptonim bravo two zero
 * [x] znajdujemy ich gdy są już martwi tom 1 i 2
+* [x] Andy Greenberg "Sandworm"
+* [x] SKÓRA I ĆWIEKI NA WIEKI - https://czarne.com.pl/katalog/ksiazki/skora-i-cwieki-na-wieki
+* [x] How To Take Smart Notes (Sonke Ahrens)
+* [x] The coming wave - Mustafa Suleyman
