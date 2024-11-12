@@ -34,17 +34,15 @@
 
  * [ ] Axions' End
  * [ ] Half Baked Harvest - Tieghan Gerard
- * [ ] Interactive Data Visualization for the Web
  * [ ] Love * Math - Edward Frenkel
  * [ ] Math without numers - Milo Beckman
  * [ ] colorful Palete - raj Tamney
- * [ ] Foreign Books - Simon Schauman
+ * [ ] Foreign Bodies - Simon Schauman
  * [ ] How not to be wrong - Jordan Ellenberg
  * [ ] Noise. A flaw in human judgement - Daniel Kahneman
  * [ ] The age of AI - Kissinger, Schmidt, Hutten...
  * [ ] SPQR, a history of ancient Rome - Mary Beard
  * [ ] Twelve caesars - Mary Beard
- * [ ] Surely you're koing mr.Feynman - Richard Feynman
  * [ ] Attac on titan - omnibus
  * [ ] The Seven Million Dollar Spy by David Wise (Paweł ma)
  * [ ] Probably Overthinking It: How to Use Data to Answer Questions, Avoid Statistical Traps, and Make Better Decisions 
@@ -77,3 +75,5 @@
 * [x] SKÓRA I ĆWIEKI NA WIEKI - https://czarne.com.pl/katalog/ksiazki/skora-i-cwieki-na-wieki
 * [x] How To Take Smart Notes (Sonke Ahrens)
 * [x] The coming wave - Mustafa Suleyman
+* [x] Surely you're koing mr.Feynman - Richard Feynman
+
