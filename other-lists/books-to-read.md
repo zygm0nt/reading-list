@@ -3,6 +3,7 @@
   - Gracz
 - Rebeca Ore "Zabawki Gai"
 - Lary Niven "Pierścień"
+-  Pyłek w Oku Boga  - https://lubimyczytac.pl/ksiazka/5063634/pylek-w-oku-boga
 - Neal Stephenson "Diamentowy wiek"
 
 -  „Pamiętnik z Powstania” Białoszewskiego
@@ -140,13 +141,11 @@
 - Lehman, POsanentier "Niezwykłe liczby Fibonacciego"
 - Gardner "Ostatnie rozrywki"
 - Max Solomon Bennett "A Brief History of Intelligence: Evolution, AI, and the Five Breakthroughs That Made Our Brains"
-- 
+
 ## Po angielsku
 
 - Zehe Faux "Number go up" (crypto)
 - Cameron McWhirter "America gun - the true story of the AR-15"
-- Mustafa Suleyman "The coming wave"
-- Schwarzenenger "Be useful: Seven tools for life"
 - https://www.gatesnotes.com/The-Song-of-the-Cell
 - "Tracers in the dark" https://lubimyczytac.pl/ksiazka/5037022/tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-cryptocurrency
 
