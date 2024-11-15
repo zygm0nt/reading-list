@@ -29,6 +29,16 @@
  * [ ] Tom Wolfe "Próba kwasu w elektrycznej oranżadzie"
  * [ ] Andy Greenberg "Tracers in the dark"
  * [ ] Paulina Rowińska "Mapmatics"
+ * [ ] Patrick Radden Keefe
+   * [ ] Empire of Pain: The Secret History of the Sackler Dynasty - Patrick Radden Keefe (The Sackler family) https://www.goodreads.com/book/show/43868109-empire-of-pain
+   * [ ] Say Nothing: A True Story of Murder and Memory in Northern Ireland - Patrick Radden Keefe https://www.goodreads.com/book/show/40163119-say-nothing
+   * [ ] Rogues: True Stories of Grifters, Killers, Rebels and Crooks https://www.goodreads.com/book/show/59148726-rogues
+ * [ ] Confessions of an Advertising Man - https://www.goodreads.com/book/show/44895.Confessions_of_an_Advertising_Man
+ * [ ] David Grann
+   * [ ] The Wager: A Tale of Shipwreck, Mutiny and Murder (https://www.goodreads.com/book/show/61714633-the-wager?ref=rae_0)
+   * [ ] Killers of the Flower Moon
+ * [ ] There Will Be Fire: Margaret Thatcher, the IRA, and Two Minutes That Changed History https://www.goodreads.com/book/show/61420116-there-will-be-fire?ref=rae_2
+ * [ ] A Fever in the Heartland: The Ku Klux Klan's Plot to Take Over America, and the Woman Who Stopped Them https://www.goodreads.com/book/show/61423989-a-fever-in-the-heartland?ref=rae_1
 
 
 ## To be considered
