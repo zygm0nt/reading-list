@@ -28,6 +28,7 @@
  * [ ] Wade Davis "Wąż i tęcza. Voodoo, zombie"
  * [ ] Tom Wolfe "Próba kwasu w elektrycznej oranżadzie"
  * [ ] Andy Greenberg "Tracers in the dark"
+ * [ ] Paulina Rowińska "Mapmatics"
 
 
 ## To be considered
