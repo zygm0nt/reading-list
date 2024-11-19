@@ -62,6 +62,10 @@
 -  Jawnogrzesznica - zbiór opowiadań
 -  Rafał Orkan
 -  Jakub Nowak "Amnezjak"
+-  Walter Jon Williams
+  - "Aristoi"
+  - "Stacja aniołów"
+  - "Metropolita" + "Miasto w ogniu"
 
 ## Seria amerykańska (Czarne)
 
