@@ -11,8 +11,8 @@
 - [ ] Children of Men
 - [ ] Close Encounters of The Third Kind
 - [ ] Men
-- [ ] Blade Runner
-- [ ] Blade Runner: 2xx
+- [x] Blade Runner
+- [x] Blade Runner: 2xx
 - [x] Interstellar
 - [ ] Samaritan
 - [ ] Dune part 1
