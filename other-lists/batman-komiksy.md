@@ -7,7 +7,7 @@ Polecane przez Tomasza Kołodziejczaka w Kanale Fantastycznym:
 - Teenage Mutant Ninja Turtles - Crossover (biblioteka Szegedyńska)
 - Długie Halloween
 - Biały Rycerz
-- Noir (biblioteka Szegedyńska)
+- [x] Noir (biblioteka Szegedyńska)
 - Impostor
-- Batman w świetle Lamp gazowych (Al. Zjednoczenia 19)
-- Batman Death Metal (biblioteka Szegedyńska)
+- [x] Batman w świetle Lamp gazowych (Al. Zjednoczenia 19)
+- [x] Batman Death Metal (biblioteka Szegedyńska)
