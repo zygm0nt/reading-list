@@ -66,6 +66,11 @@
   - "Aristoi"
   - "Stacja aniołów"
   - "Metropolita" + "Miasto w ogniu"
+- books about first contact
+  - Carl Sagan "Contact"
+  - Lary Niven "The Mote in God's eye"
+  - Robert Charles Wilson "Spin"
+  - Greg Bear "Eon"
 
 ## Seria amerykańska (Czarne)
 
