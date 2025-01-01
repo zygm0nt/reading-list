@@ -27,7 +27,6 @@
        * [ ] zero history
  * [ ] Wade Davis "Wąż i tęcza. Voodoo, zombie"
  * [ ] Tom Wolfe "Próba kwasu w elektrycznej oranżadzie"
- * [ ] Andy Greenberg "Tracers in the dark"
  * [ ] Paulina Rowińska "Mapmatics"
  * [ ] Patrick Radden Keefe
    * [ ] Empire of Pain: The Secret History of the Sackler Dynasty - Patrick Radden Keefe (The Sackler family) https://www.goodreads.com/book/show/43868109-empire-of-pain
@@ -87,4 +86,5 @@
 * [x] How To Take Smart Notes (Sonke Ahrens)
 * [x] The coming wave - Mustafa Suleyman
 * [x] Surely you're koing mr.Feynman - Richard Feynman
+* [x] Andy Greenberg "Tracers in the dark"
 
