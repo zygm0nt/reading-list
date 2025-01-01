@@ -71,6 +71,10 @@
   - Lary Niven "The Mote in God's eye"
   - Robert Charles Wilson "Spin"
   - Greg Bear "Eon"
+- Robert Caro
+  - Turn Every Page: https://en.wikipedia.org/wiki/Turn_Every_Page
+  - Pwer Broker: https://en.wikipedia.org/wiki/The_Power_Broker
+  - 
 
 ## Seria amerykańska (Czarne)
 
@@ -86,6 +90,7 @@
 - Bruder "Nomadland. W drodze za pracą"
 - Miami 1980 Rok niebezpiecznych dni
 - Grant "Najgłębsze południe"
+
 
 ## Podróżnicze
 
