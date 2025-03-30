@@ -1,3 +1,5 @@
+## Sci-fi
+
 - Culture series https://en.wikipedia.org/wiki/Culture_series - from Iain M. Banks
   - Wspomnienie Phlebasa"
   - Gracz
@@ -5,51 +7,12 @@
 - Lary Niven "Pierścień"
 -  Pyłek w Oku Boga  - https://lubimyczytac.pl/ksiazka/5063634/pylek-w-oku-boga
 - Neal Stephenson "Diamentowy wiek"
-
--  „Pamiętnik z Powstania” Białoszewskiego
--  „Szkoła uczuć” Flauberta 
--  Dhammapada
--  Steinbeck “Grona gniewu”
--  M.V. Llosa “Gawedziarz”
--  A. S. Exupery “Maly ksiaze”
 -  “Przenicowany świat” Strugackich
--  “Fenotyp rozszerzony” Dawkinsa
--  Herman Melville “Moby Dick”
--  ‘W poszukiwaniu straconego czasu’ Marcel Proust
--  Samuel Beckett “Czekając na Godota”
--  "Fictions", "The Aleph" Borges
--  "Invisible Cities" Calvino
--  "An introduction to general systems thinking" Weinberg
--  "Data and Reality" Kent
--  Patterns of Software - Gabriel
--  The Image of the City - Lynch
--  Seeing like a State - Scott
--  "Dream machine"
--  Alberta Camusa - "Obcy", "Dżuma"
--  Thomas Pynchon "Gravity's Rainbow"
--  Thomas Ligotti - inspiration for "True Detective"
--  Henry Miller (?!) - evaluating
--  Labyrinths by Jorge Luis Borges
--  The Bear by William Faulkner
--  The Most Human Human: What Artificial Intelligence Teaches Us About Being Alive by Brian Christian
 -  Last and First Men by Olaf Stapledon
--  How to Lie with Statistics by Darrell Huff and Irving Geis.
--  Dragnet Nation: A Quest for Privacy, Security and Freedom in a World of Relentless Surveillance by Julia Angwin
--  !! Commonwelth Writers: Zadie Smith, Salman Rushdie, Harif Keureshi "Budda z przedmieścia"
--  "śnieg" ORhan pamuk
--  The Rise and Fall of the Third Reich: A History of Nazi Germany - William L. Shirer
--  Ed Gibbon "The Decline and Fall of the Roman Empire, vol. 1-6"
--  Tinker, Tailor, Soldier, Spy) – to powieść Johna le Carré, stanowiąca pierwszy tom serii trzech książek, nieoficjalnie nazywanych jako Trylogia Karli (The Karla Trilogy).
--  https://en.wikipedia.org/wiki/Inverted_World
--  Economics: The User's Guide by Ha-Joon Chang
 -  child 44
--  inna dusza - orbitowski
 -  gene wolfe "book of the new sun"
 -  greg egan - https://www.goodreads.com/book/show/156784.Permutation_City
 -  the maniac - https://www.nytimes.com/2023/09/29/books/review/benjamin-labatut-the-maniac.html
--  Marek Huberath "Balsam długiego pożegnania"
--  Afryka to nie państwo
--  Uwierz w plan. Skd si wził QAnon i jak namieszał w Ameryce
 -  Arthur C. Clarke - cykle Rama
 -  Niech żyje polska Hura
 -  Opowieści praskie
@@ -71,10 +34,92 @@
   - Lary Niven "The Mote in God's eye"
   - Robert Charles Wilson "Spin"
   - Greg Bear "Eon"
+-  Marek Huberath "Balsam długiego pożegnania"
+- https://en.wikipedia.org/wiki/Commonwealth_Saga - Peter F. Hamilton
+* [ ] Ada Palmer do błyskawicy podobne
+* [ ] Ada palmer siedem kaputulacji
+* [ ] Adi Polak "Scaling ML with Spark"
+* [ ] William Gibson
+   * [ ]  Agency
+   * [ ]  Thrillers:
+       * [ ] Pattern recoginition
+       * [ ] spook country
+       * [ ] zero history
+* [ ] https://en.wikipedia.org/wiki/Ancillary_Justice
+
+
+## Pop-sci
+
+-  “Fenotyp rozszerzony” Dawkinsa
+-  "An introduction to general systems thinking" Weinberg
+-  "Data and Reality" Kent
+-  Patterns of Software - Gabriel
+-  "Dream machine"
+-  The Most Human Human: What Artificial Intelligence Teaches Us About Being Alive by Brian Christian
+-  How to Lie with Statistics by Darrell Huff and Irving Geis.
+-  Economics: The User's Guide by Ha-Joon Chang
+* [ ] Paulina Rowińska "Mapmatics"
+
+## repo
+
+-  Dragnet Nation: A Quest for Privacy, Security and Freedom in a World of Relentless Surveillance by Julia Angwin
+-  Afryka to nie państwo
+-  Uwierz w plan. Skd si wził QAnon i jak namieszał w Ameryce
+* [ ] Patrick Radden Keefe
+   * [ ] Empire of Pain: The Secret History of the Sackler Dynasty - Patrick Radden Keefe (The Sackler family) https://www.goodreads.com/book/show/43868109-empire-of-pain
+   * [ ] Say Nothing: A True Story of Murder and Memory in Northern Ireland - Patrick Radden Keefe https://www.goodreads.com/book/show/40163119-say-nothing
+   * [ ] Rogues: True Stories of Grifters, Killers, Rebels and Crooks https://www.goodreads.com/book/show/59148726-rogues
+ * [ ] Confessions of an Advertising Man - https://www.goodreads.com/book/show/44895.Confessions_of_an_Advertising_Man
+ * [ ] David Grann
+   * [ ] The Wager: A Tale of Shipwreck, Mutiny and Murder (https://www.goodreads.com/book/show/61714633-the-wager?ref=rae_0)
+   * [ ] Killers of the Flower Moon
+ * [ ] There Will Be Fire: Margaret Thatcher, the IRA, and Two Minutes That Changed History https://www.goodreads.com/book/show/61420116-there-will-be-fire?ref=rae_2
+ * [ ] A Fever in the Heartland: The Ku Klux Klan's Plot to Take Over America, and the Woman Who Stopped Them https://www.goodreads.com/book/show/61423989-a-fever-in-the-heartland?ref=rae_1
+* [ ] JOHN GIMLETTE - TEATR RYB
+* [ ] JOHN GIMLETTE - DZIKIE WYBRZEŻE
+* [ ] COLIN THUBRON - CIEŃ JEDWABNEGO SZLAKU
+* [ ] https://czarne.com.pl/katalog/ksiazki/podziemie
+* [ ] https://czarne.com.pl/katalog/ksiazki/cyrk-polski
+
+## History
+
+-  The Rise and Fall of the Third Reich: A History of Nazi Germany - William L. Shirer
+-  Ed Gibbon "The Decline and Fall of the Roman Empire, vol. 1-6"
+-  John Dings "Czas kondora" https://czarne.com.pl/katalog/ksiazki/czas-kondora
+-  Telegram konsula Blooda   https://czarne.com.pl/katalog/ksiazki/telegram-konsula-blooda
+-  Rewolucja kulturalna https://czarne.com.pl/katalog/ksiazki/rewolucja-kulturalna
+-  Byliśmy przyszłością https://czarne.com.pl/katalog/ksiazki/bylismy-przyszloscia
+-  Wielki głód https://czarne.com.pl/katalog/ksiazki/wielki-glod
+* [ ] stanisław jankowski - z fałszywym ausweisem w prawdziwej warszawie
+* [ ] jan nowak kurier z warszawy
+  
+## Classics
+
+-  „Pamiętnik z Powstania” Białoszewskiego
+-  „Szkoła uczuć” Flauberta 
+-  Dhammapada
+-  Steinbeck “Grona gniewu”
+-  M.V. Llosa “Gawedziarz”
+-  A. S. Exupery “Maly ksiaze”
+-  Herman Melville “Moby Dick”
+-  ‘W poszukiwaniu straconego czasu’ Marcel Proust
+-  Samuel Beckett “Czekając na Godota”
+-  "Fictions", "The Aleph" Borges
+-  "Invisible Cities" Calvino
+-  The Image of the City - Lynch
+-  Seeing like a State - Scott
+-  Alberta Camusa - "Obcy", "Dżuma"
+-  Thomas Ligotti - inspiration for "True Detective"
+-  Henry Miller (?!) - evaluating
+-  Labyrinths by Jorge Luis Borges
+-  The Bear by William Faulkner
+-  !! Commonwelth Writers: Zadie Smith, Salman Rushdie, Harif Keureshi "Budda z przedmieścia"
+-  "śnieg" ORhan pamuk
+-  Tinker, Tailor, Soldier, Spy) – to powieść Johna le Carré, stanowiąca pierwszy tom serii trzech książek, nieoficjalnie nazywanych jako Trylogia Karli (The Karla Trilogy).
+-  https://en.wikipedia.org/wiki/Inverted_World
 - Robert Caro
   - Turn Every Page: https://en.wikipedia.org/wiki/Turn_Every_Page
-  - Pwer Broker: https://en.wikipedia.org/wiki/The_Power_Broker
-  - 
+  - Power Broker: https://en.wikipedia.org/wiki/The_Power_Broker
 
 ## Seria amerykańska (Czarne)
 
@@ -86,7 +131,7 @@
 - Dan Bam "Wolność i spluwa"
 - Laurence Wright "Wyniosłe wieże"
 - Nick Bolton "Król Darknetu"
-- San Francisco. Dziki brzeg wolności
+- [x] San Francisco. Dziki brzeg wolności
 - Bruder "Nomadland. W drodze za pracą"
 - Miami 1980 Rok niebezpiecznych dni
 - Grant "Najgłębsze południe"
@@ -102,8 +147,7 @@
 
 ## Reportaże
 
-- Kamil aSŁawińska "Nowy Jork Przewodnik niepraktyczny"
-- Joanna Bator "Japoński wachlarz"
+- Kamila SŁawińska "Nowy Jork Przewodnik niepraktyczny"
 - Anna Ikeda "Zycie jak w Tochigi"
 - Dorota Warakomska "Droga 66"
 - Tomasz Zalewski "Harlem"
@@ -123,8 +167,7 @@
 - Paweł Pieniążek "Opór. Ukraińcy wobec rosyjskiej inwazji "
 -  Imperium. Podróż po Cesarstwie Rzymskim śladem jednej monety
 - Paweł Tarczyński  "Rozkład. O niedemokracji w Ameryce "
-- https://en.wikipedia.org/wiki/Commonwealth_Saga - Peter F. Hamilton
-- 
+
 
 
 # Inne
@@ -161,7 +204,7 @@
 - Zehe Faux "Number go up" (crypto)
 - Cameron McWhirter "America gun - the true story of the AR-15"
 - https://www.gatesnotes.com/The-Song-of-the-Cell
-- "Tracers in the dark" https://lubimyczytac.pl/ksiazka/5037022/tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-cryptocurrency
+- [x] "Tracers in the dark" https://lubimyczytac.pl/ksiazka/5037022/tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-cryptocurrency
 
 ## Komiksy
 
@@ -169,3 +212,65 @@
 -  Skarga Utraconych Ziem
 -  Wilk morski
 -   Zniszczyć wszystkie potwory 
+* [ ] saga compendium - komiks
+
+
+## To be considered
+
+
+* [ ] http://mazesforprogrammers.com/
+* [ ] How to Think More About Sex (Alain de Botton)
+* [ ] Storyworthy (Matthew Dicks)
+* [ ] The Ride of a Lifetime (Bob Iger)
+* [ ] The Elephant in the Brain (Simler & Hanson)
+* [ ] War Doctor (David Nott)
+* [ ] masters of doom
+* [ ] SID MEIER PRZEDSTAWIA: WSPOMNIENIA!
+ * [ ] Wade Davis "Wąż i tęcza. Voodoo, zombie"
+ * [ ] Tom Wolfe "Próba kwasu w elektrycznej oranżadzie"
+ * [ ] Axions' End
+ * [ ] Half Baked Harvest - Tieghan Gerard
+ * [ ] Love * Math - Edward Frenkel
+ * [ ] Math without numers - Milo Beckman
+ * [ ] colorful Palete - raj Tamney
+ * [ ] Foreign Bodies - Simon Schauman
+ * [ ] How not to be wrong - Jordan Ellenberg
+ * [ ] Noise. A flaw in human judgement - Daniel Kahneman
+ * [ ] The age of AI - Kissinger, Schmidt, Hutten...
+ * [ ] SPQR, a history of ancient Rome - Mary Beard
+ * [ ] Twelve caesars - Mary Beard
+ * [ ] Attac on titan - omnibus
+ * [ ] The Seven Million Dollar Spy by David Wise (Paweł ma)
+ * [ ] Probably Overthinking It: How to Use Data to Answer Questions, Avoid Statistical Traps, and Make Better Decisions 
+
+## On math people
+
+* [ ] Alan Turing: The Enigma By Andrew Hodges
+* [ ] A Beautiful Mind: The Life of Mathematical Genius and Nobel Laureate John Nash By Sylvia Nasar
+* [ ] Do Not Erase: Mathematicians and Their Chalkboards By Jessica Wynne
+* [ ] The Man Who Loved Only Numbers: The Story of Paul Erdos and the Search for Mathematical Truth By Paul Hoffman
+* [ ] The Man Who Knew Infinity: A Life of the Genius Ramanujan By Robert Kanigel
+
+* [ ] Trigonometric Delights: https://press.princeton.edu/books/paperback/9780691202198/trigonometric-delights
+* [ ] The Eternal Darkness: https://press.princeton.edu/books/paperback/9780691175621/the-eternal-darkness
+
+## Bought / Read
+
+* [x] Czysty wymysł. Jak japońska popkultura podbiła świat https://www.znak.com.pl/ksiazka/czysty-wymysl-jak-japonska-popkultura-podbila-swiat-alt-matt-185907
+* [ ] William Gibson
+   * [x]  Trylogia ciągu
+   * [x]  Trylogia mostu
+   * [x]  Peryferal
+* [x] https://czarne.com.pl/katalog/ksiazki/amur
+* [x] https://czarne.com.pl/katalog/ksiazki/los-angeles
+* [x] https://czarne.com.pl/katalog/ksiazki/hongkong
+* [x] https://czarne.com.pl/katalog/ksiazki/nowy-jork
+* [x] kryptonim bravo two zero
+* [x] znajdujemy ich gdy są już martwi tom 1 i 2
+* [x] Andy Greenberg "Sandworm"
+* [x] SKÓRA I ĆWIEKI NA WIEKI - https://czarne.com.pl/katalog/ksiazki/skora-i-cwieki-na-wieki
+* [x] How To Take Smart Notes (Sonke Ahrens)
+* [x] The coming wave - Mustafa Suleyman
+* [x] Surely you're koing mr.Feynman - Richard Feynman
+* [x] Andy Greenberg "Tracers in the dark"
+
