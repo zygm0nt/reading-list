@@ -12,7 +12,6 @@
 -  child 44
 -  gene wolfe "book of the new sun"
 -  greg egan - https://www.goodreads.com/book/show/156784.Permutation_City
--  the maniac - https://www.nytimes.com/2023/09/29/books/review/benjamin-labatut-the-maniac.html
 -  Arthur C. Clarke - cykle Rama
 -  Niech żyje polska Hura
 -  Opowieści praskie
@@ -274,4 +273,4 @@
 * [x] The coming wave - Mustafa Suleyman
 * [x] Surely you're koing mr.Feynman - Richard Feynman
 * [x] Andy Greenberg "Tracers in the dark"
-
+* [x] the maniac - https://www.nytimes.com/2023/09/29/books/review/benjamin-labatut-the-maniac.html
