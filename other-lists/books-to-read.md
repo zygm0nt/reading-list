@@ -45,7 +45,7 @@
        * [ ] spook country
        * [ ] zero history
 * [ ] https://en.wikipedia.org/wiki/Ancillary_Justice
-
+* [ ] Star Wars - Thrawn trilogy:  https://en.wikipedia.org/wiki/Thrawn_trilogy
 
 ## Pop-sci
 
