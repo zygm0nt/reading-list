@@ -72,7 +72,7 @@
  * [ ] Confessions of an Advertising Man - https://www.goodreads.com/book/show/44895.Confessions_of_an_Advertising_Man
  * [ ] David Grann
    * [ ] The Wager: A Tale of Shipwreck, Mutiny and Murder (https://www.goodreads.com/book/show/61714633-the-wager?ref=rae_0)
-   * [ ] Killers of the Flower Moon
+   * [ ] Killers of the Flower Moon (!!) https://www.davidgrann.com/book/killers-of-the-flower-moon/
  * [ ] There Will Be Fire: Margaret Thatcher, the IRA, and Two Minutes That Changed History https://www.goodreads.com/book/show/61420116-there-will-be-fire?ref=rae_2
  * [ ] A Fever in the Heartland: The Ku Klux Klan's Plot to Take Over America, and the Woman Who Stopped Them https://www.goodreads.com/book/show/61423989-a-fever-in-the-heartland?ref=rae_1
 * [ ] JOHN GIMLETTE - TEATR RYB
@@ -120,6 +120,7 @@
 - Robert Caro
   - Turn Every Page: https://en.wikipedia.org/wiki/Turn_Every_Page
   - Power Broker: https://en.wikipedia.org/wiki/The_Power_Broker
+- The Sympathizer - https://www.goodreads.com/book/show/23168277-the-sympathizer
 
 ## Seria amerykańska (Czarne)
 
