@@ -91,7 +91,8 @@
 -  Wielki głód https://czarne.com.pl/katalog/ksiazki/wielki-glod
 * [ ] stanisław jankowski - z fałszywym ausweisem w prawdziwej warszawie
 * [ ] jan nowak kurier z warszawy
-  
+* [ ] https://muse.jhu.edu/book/61425/ - interesująca ksiazka o Warszawie "Mapping Warsaw: The Spatial Poetics of a Postwar City"
+
 ## Classics
 
 -  „Pamiętnik z Powstania” Białoszewskiego
