@@ -5,7 +5,7 @@
 - [ ] Station Eleven (HBO)
 - [ ] The Symphatizer
 - [ ] Tokyo Vice
-- [ ] Scavengers Reign
+- [x] Scavengers Reign
 - [ ] Samurai Jack
 - [ ] Batham: The Doom that came to Gotham
 - [ ] Children of Men
@@ -17,8 +17,8 @@
 - [ ] Samaritan
 - [ ] Dune part 1
 - [ ] Dune part 2
-- [ ] The Lobster
-- [ ] Tenet
+- [x] The Lobster
+- [x] Tenet
 - [x] Inception
 - [ ] Sisu
 - [x] Shogun
