@@ -255,6 +255,17 @@
 * [ ] Trigonometric Delights: https://press.princeton.edu/books/paperback/9780691202198/trigonometric-delights
 * [ ] The Eternal Darkness: https://press.princeton.edu/books/paperback/9780691175621/the-eternal-darkness
 
+## Recommended from Grammarly
+
+* [ ] Susanna Clarke "Piranesi" [biblioteka](http://katalog.bibliotekabielany.waw.pl/katalog/detail.php?PozycjaOpisy=20210510101543081449) [goodreads](https://www.goodreads.com/book/show/50202953-piranesi)
+* [ ] Zadie Smith "White Teeth" [goodreads](https://www.goodreads.com/book/show/3711.White_Teeth)
+* [ ] Octavia Butler "Dawn" [Goodreads](https://www.goodreads.com/book/show/58748422-dawn)
+  * [ ] Inne jej książki w bibliotece: https://lubimyczytac.pl/ksiazka/5168013/przypowiesc-o-siewcy
+  * [ ] http://katalog.bibliotekabielany.waw.pl/katalog/detail.php?PozycjaOpisy=20250415135647076711
+* [ ] Shannon Chakraborty "The Adventures of Amina al-Sirafi"
+  * [ ] https://lubimyczytac.pl/autor/169734/s-a-chakraborty [Goodreads](https://www.goodreads.com/book/show/61294937-the-adventures-of-amina-al-sirafi)
+  * [ ] 
+
 ## Bought / Read
 
 * [x] Czysty wymysł. Jak japońska popkultura podbiła świat https://www.znak.com.pl/ksiazka/czysty-wymysl-jak-japonska-popkultura-podbila-swiat-alt-matt-185907
