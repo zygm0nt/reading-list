@@ -13,6 +13,7 @@
 -  gene wolfe "book of the new sun"
 -  greg egan - https://www.goodreads.com/book/show/156784.Permutation_City
 -  Arthur C. Clarke - cykle Rama
+   - https://atboundarysedge.com/2025/08/30/book-review-the-rama-sequence-by-arthur-c-clarke-gentry-lee/ 
 -  Niech żyje polska Hura
 -  Opowieści praskie
 -  Artur Szrejter - Robimy rewolucj
