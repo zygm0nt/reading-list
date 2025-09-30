@@ -47,6 +47,7 @@
        * [ ] zero history
 * [ ] https://en.wikipedia.org/wiki/Ancillary_Justice
 * [ ] Star Wars - Thrawn trilogy:  https://en.wikipedia.org/wiki/Thrawn_trilogy
+* [ ] Stephen Baxter "Behemoth" https://atboundarysedge.com/2025/09/27/book-review-behemoth-by-stephen-baxter/
 
 ## Pop-sci
 
