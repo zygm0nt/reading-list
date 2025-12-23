@@ -1,3 +1,11 @@
 GitPython
 pandas
 matplotlib
+openai
+python-dotenv
+pandas
+matplotlib
+scipy
+seaborn
+PyYAML
+numpy

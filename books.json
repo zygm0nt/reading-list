@@ -1,0 +1,1948 @@
+{
+  "2011": [
+    {
+      "author": "Ian McDonald",
+      "title": "River of gods"
+    },
+    {
+      "author": "Andy Hunt",
+      "title": "Pragmatic thinking and learning"
+    },
+    {
+      "author": "Anne Fadiman",
+      "title": "W ogóle i w szczególe"
+    },
+    {
+      "author": "Anne Fadiman",
+      "title": "At large and at small"
+    },
+    {
+      "author": "Cormac McCarthy",
+      "title": "To nie jest kraj dla starych ludzi"
+    },
+    {
+      "author": "Włodzimierz Nowak",
+      "title": "Serce narodu koło przystanku"
+    },
+    {
+      "author": "Greg Egan",
+      "title": "Teranesia"
+    },
+    {
+      "author": "Paul Theroux",
+      "title": "Wielki bazar kolejowy"
+    },
+    {
+      "author": "Ray Bradbury",
+      "title": "Ilustrowany człowiek i inne opowiadania"
+    },
+    {
+      "author": "Max Cegielski",
+      "title": "Pijani bogiem"
+    },
+    {
+      "author": "Philip K. Dick",
+      "title": "Ubik"
+    },
+    {
+      "author": "Yoanni Sanchez",
+      "title": "Cuba Libre - notatki z Hawanny"
+    },
+    {
+      "author": "Jennie Dielemans",
+      "title": "Witajcie w raju"
+    },
+    {
+      "author": "Harlan Ellison",
+      "title": "I have no mouth and I must scream"
+    },
+    {
+      "author": "Eleonora Ratkiewicz",
+      "title": "Paradoksy młodszego patriarchy"
+    },
+    {
+      "author": "Spiegelman",
+      "title": "Maus"
+    },
+    {
+      "author": "Marek S. Huberath",
+      "title": "Miasta pod skałą"
+    },
+    {
+      "author": "Wojciech Tocham",
+      "title": "Dzisiaj narysujemy śmierć"
+    },
+    {
+      "author": "China Mieville",
+      "title": "Dworzec Perdido"
+    },
+    {
+      "author": "George R. R. Martin",
+      "title": "A game of thrones"
+    }
+  ],
+  "2012": [
+    {
+      "author": "Tiziano Tarazani",
+      "title": "Wizje"
+    },
+    {
+      "author": "William Golding",
+      "title": "Władca much"
+    },
+    {
+      "author": "Mario Puzo",
+      "title": "Rodzina Borgiów"
+    },
+    {
+      "author": "Nigel Slater",
+      "title": "Toast"
+    },
+    {
+      "author": "George R.R. Martin",
+      "title": "Clash of kings"
+    },
+    {
+      "author": "Cory Doctorow",
+      "title": "Makers"
+    },
+    {
+      "author": "Hao Yiwu",
+      "title": "Prowadzący umarłych"
+    },
+    {
+      "author": "Geoge R. R. Martin",
+      "title": "Storm of swords pI"
+    },
+    {
+      "author": "Zbigniew Herbert",
+      "title": "Barbarzyńca w ogrodzie"
+    },
+    {
+      "author": "Robert Heinlein",
+      "title": "Oby w obcym kraju"
+    },
+    {
+      "author": "Janna Woźniczko-Czeczott",
+      "title": "Macierzyństwo non-fiction"
+    },
+    {
+      "author": "\"Javascript",
+      "title": "- the good parts\""
+    },
+    {
+      "author": "\"Programming",
+      "title": "concurrency on the JVM\""
+    },
+    {
+      "author": "Steve",
+      "title": "Jobs - biografia"
+    },
+    {
+      "author": "China Mieville",
+      "title": "Kraken"
+    }
+  ],
+  "2013": [
+    {
+      "author": "Neda Keleh",
+      "title": "Słodko-gorzka ojczyzna"
+    },
+    {
+      "author": "Greg Egan",
+      "title": "Luminous"
+    },
+    {
+      "author": "H.P. Lovecraft",
+      "title": "In the mountains of madness"
+    },
+    {
+      "author": "Meyza, Szabłowski",
+      "title": "Nasz mały PRL"
+    },
+    {
+      "author": "Krug",
+      "title": "Don't make me think"
+    },
+    {
+      "author": "\"A",
+      "title": "day in the life of a minimalist\""
+    },
+    {
+      "author": "George R.R. Martin",
+      "title": "Storm of swords pII"
+    },
+    {
+      "author": "Lothar-Gunther Buchhein",
+      "title": "Okręt"
+    },
+    {
+      "author": "Marek Wałkuski",
+      "title": "Wałkowanie ameryki"
+    },
+    {
+      "author": "Stephen Baxter",
+      "title": "Tratwa"
+    },
+    {
+      "author": "Mike Resnic",
+      "title": "Kirynyaga"
+    },
+    {
+      "author": "Robert C. Martin",
+      "title": "The Clean coder"
+    },
+    {
+      "author": "George R.R. Martin",
+      "title": "Feast for crows"
+    },
+    {
+      "author": "\"Wielki",
+      "title": "Szu\""
+    },
+    {
+      "author": "Effective",
+      "title": "Java"
+    },
+    {
+      "author": "KEneth Skodje",
+      "title": "Never eat alone"
+    },
+    {
+      "author": "Neil Gaiman",
+      "title": "American gods"
+    },
+    {
+      "author": "E.L.James",
+      "title": "50 shades of gray"
+    },
+    {
+      "author": "Marcin Meller",
+      "title": "Między wariatami"
+    },
+    {
+      "author": "Ryszard Piekarowicz",
+      "title": "W cieniu Amanallaha"
+    },
+    {
+      "author": "Janina Rubach-Kuczewska",
+      "title": "Zyci po japońsku"
+    }
+  ],
+  "2014": [
+    {
+      "author": "\"Beautiful",
+      "title": "Architecture\""
+    },
+    {
+      "author": "David Kuscher",
+      "title": "Masters of Doom"
+    },
+    {
+      "author": "Andrzej Sapkowski",
+      "title": "Sezon burz"
+    },
+    {
+      "author": "Eileen Chang",
+      "title": "Czerwona róża, biała róża"
+    },
+    {
+      "author": "Adam Nergal Darski",
+      "title": "Spowiedź heretyka"
+    },
+    {
+      "author": "George R.R. Martin",
+      "title": "A dane with the dragons"
+    },
+    {
+      "author": "Sadalage, Martin Fowler",
+      "title": "NoSQL Distilled"
+    },
+    {
+      "author": "Functional",
+      "title": "Programming in Scala"
+    },
+    {
+      "author": "Mahout",
+      "title": "in Action"
+    },
+    {
+      "author": "Robert Kioyuki",
+      "title": "Rich Dad Poor Dad"
+    },
+    {
+      "author": "Arthur C. Clarke",
+      "title": "Randezvous with Rama"
+    },
+    {
+      "author": "Wojciech Tochman",
+      "title": "Eli, Eli"
+    },
+    {
+      "author": "David Lehane",
+      "title": "Mystic River"
+    },
+    {
+      "author": "The",
+      "title": "Joy of Clojure"
+    },
+    {
+      "author": "Filip Springer",
+      "title": "Wanna z kolumnadą"
+    },
+    {
+      "author": "J.D. Salinger",
+      "title": "Buszujący w zborzu"
+    },
+    {
+      "author": "Anthony Burdain",
+      "title": "Kill Grill"
+    },
+    {
+      "author": "Mark Owen",
+      "title": "Niełatwy dzień"
+    },
+    {
+      "author": "Beata Sadowska",
+      "title": "Ksiązka o bieganiu"
+    }
+  ],
+  "2015": [
+    {
+      "author": "Scott Jurek",
+      "title": "Jedz i biegnij"
+    },
+    {
+      "author": "Krzysztof Sroda",
+      "title": "Podróże do armenii"
+    },
+    {
+      "author": "Ted Dunning & Ellen Friedman",
+      "title": "Practical ML - a new look at anomaly detection"
+    },
+    {
+      "author": "Piotr Mańskowski",
+      "title": "Cyfrowe Marzenia"
+    },
+    {
+      "author": "Greg Beat",
+      "title": "Hull Zero Three"
+    },
+    {
+      "author": "Ryszard Kapuściński",
+      "title": "O książkach, ludziach i sztuce"
+    },
+    {
+      "author": "\"Effective",
+      "title": "Akka\" 27-"
+    },
+    {
+      "author": "Hans-Michale Koetzle",
+      "title": "Słynne zdjęcia cz I"
+    },
+    {
+      "author": "MArta Sapała",
+      "title": "Mniej"
+    },
+    {
+      "author": "Alan Moore",
+      "title": "League of Extraordinary Gents pt II"
+    },
+    {
+      "author": "Katarzyna Bonda",
+      "title": "Sprawa Niny Frank"
+    },
+    {
+      "author": "Jesper Juul",
+      "title": "Nie - z miłości"
+    },
+    {
+      "author": "Alina Fernandez",
+      "title": "Mój ojciec Fidel"
+    },
+    {
+      "author": "Randall Munrroe",
+      "title": "What if"
+    },
+    {
+      "author": "Erich von Danniken",
+      "title": "Wspomnienia przyszłości"
+    },
+    {
+      "author": "Ted Conver",
+      "title": "Szlaki człowieka"
+    },
+    {
+      "author": "Paolo Bacigalupi",
+      "title": "The windup Girl"
+    },
+    {
+      "author": "\"Strong",
+      "title": "fathers, strong daughters\""
+    },
+    {
+      "author": "Kobieta",
+      "title": "w berlinie"
+    },
+    {
+      "author": "Osiedle",
+      "title": "swoboda - wydanie zbiorowe"
+    },
+    {
+      "author": "Colin Thubron",
+      "title": "Po syberii"
+    },
+    {
+      "author": "Peter Thiel",
+      "title": "Zero to one"
+    },
+    {
+      "author": "Ewa świeżeska",
+      "title": "Aktywni razem"
+    },
+    {
+      "author": "Ash Maurya",
+      "title": "Running Lean"
+    },
+    {
+      "author": "Linda Elder",
+      "title": "Critical Thinking strategies for success"
+    },
+    {
+      "author": "Paweł Smoleński",
+      "title": "Arab strzela, żyd się cieszy"
+    },
+    {
+      "author": "Healthy",
+      "title": "programmer"
+    },
+    {
+      "author": "Marcin Wolski",
+      "title": "Wallenrod"
+    },
+    {
+      "author": "Vernn",
+      "title": "Vinge\"A fire upon the deep\""
+    },
+    {
+      "author": "Vincent V. Severski",
+      "title": "Nielegalnie"
+    },
+    {
+      "author": "Eduardo Mendoz",
+      "title": "Sekrety hiszpańskiej pensjonarki"
+    },
+    {
+      "author": "Wojciech Jagielski",
+      "title": "Wypalanie traw"
+    },
+    {
+      "author": "Andy Weir",
+      "title": "The martian"
+    },
+    {
+      "author": "John Updike",
+      "title": "Couples"
+    },
+    {
+      "author": "",
+      "title": "Robokalipsa"
+    }
+  ],
+  "2016": [
+    {
+      "author": "Orhan Pamuk",
+      "title": "Dom ciszy"
+    },
+    {
+      "author": "\"20",
+      "title": "lat reportażu\""
+    },
+    {
+      "author": "Severski",
+      "title": "Niewerni"
+    },
+    {
+      "author": "Garry Keller",
+      "title": "Jedna rzecz"
+    },
+    {
+      "author": "Nir Eyal",
+      "title": "Hooked"
+    },
+    {
+      "author": "Barbara Demick",
+      "title": "Swiatu nie mamy czego zazdrościć"
+    },
+    {
+      "author": "Adam Wajrak",
+      "title": "Wilki"
+    },
+    {
+      "author": "Ed Catmul",
+      "title": "Creativity Inc."
+    },
+    {
+      "author": "Kilian Jornet",
+      "title": "Biec albo umrzeć"
+    },
+    {
+      "author": "Andrzej Sapkowski",
+      "title": "Narrenturm"
+    },
+    {
+      "author": "Harlan Coben",
+      "title": "Przez jedno spojrzenie"
+    },
+    {
+      "author": "\"Gwiazdozbiór",
+      "title": "psa\""
+    },
+    {
+      "author": "Emily St.John Mandel",
+      "title": "Station Eleven"
+    },
+    {
+      "author": "Kurt Vonnegut",
+      "title": "Rzeźnia numer 5"
+    },
+    {
+      "author": "Ian McDonald",
+      "title": "Dni yberabadu"
+    },
+    {
+      "author": "Kurier",
+      "title": "z Warszawy"
+    },
+    {
+      "author": "Neil Gaiman",
+      "title": "Ostatnie kuszenie"
+    },
+    {
+      "author": "Marek Hołyński",
+      "title": "Emailem z doliny krzemowej"
+    },
+    {
+      "author": "Sapkowski",
+      "title": "Boży wojownicy"
+    },
+    {
+      "author": "Superman:",
+      "title": "Man of Steel"
+    },
+    {
+      "author": "Superman:",
+      "title": "Bulletproof"
+    },
+    {
+      "author": "",
+      "title": "Incal"
+    },
+    {
+      "author": "Lukasz Orbitowski",
+      "title": "Horrorshow"
+    },
+    {
+      "author": "Christppher Golden, Mike Mignola",
+      "title": "Hellgoy - zaginiona armia"
+    },
+    {
+      "author": "How",
+      "title": "to fly a horse"
+    },
+    {
+      "author": "Release",
+      "title": "it"
+    },
+    {
+      "author": "Jacek Dukaj",
+      "title": "Lód"
+    },
+    {
+      "author": "Pedro Domingos",
+      "title": "Master Algorithm"
+    },
+    {
+      "author": "",
+      "title": "Mikrowyprawy"
+    },
+    {
+      "author": "",
+      "title": "Logikomiks"
+    },
+    {
+      "author": "Filip Springer",
+      "title": "Źle urodzone"
+    },
+    {
+      "author": "Sapkowski",
+      "title": "Lux Perpetua"
+    }
+  ],
+  "2017": [
+    {
+      "author": "Ted Chiang",
+      "title": "Historia twojego życia"
+    },
+    {
+      "author": "Witold Szabłowski",
+      "title": "Sprawiedliwi zdrajcy"
+    },
+    {
+      "author": "Filip Springer",
+      "title": "Miasto archipelag"
+    },
+    {
+      "author": "Magda i Krzysztof Dołęgosscy",
+      "title": "Szczęśliwi biegają ultra"
+    },
+    {
+      "author": "Ian McDonald",
+      "title": "Dom derwiszy"
+    },
+    {
+      "author": "More",
+      "title": "joy of mathematics"
+    },
+    {
+      "author": "John Grisham",
+      "title": "Weteran"
+    },
+    {
+      "author": "Katarzyna Surmik-Domańska",
+      "title": "Tu mieszka miłość"
+    },
+    {
+      "author": "\"Where",
+      "title": "wizards stay up late\""
+    },
+    {
+      "author": "\"Wilczy",
+      "title": "szaniec\""
+    },
+    {
+      "author": "Marek Baraniecki",
+      "title": "Głowa kasandry"
+    },
+    {
+      "author": "China Mievile",
+      "title": "The Scar"
+    },
+    {
+      "author": "Margarett Atwood",
+      "title": "Oryks i derkacz"
+    },
+    {
+      "author": "Michael Huellbeq",
+      "title": "Cząstki elementarne"
+    },
+    {
+      "author": "Marcin Podlewski",
+      "title": "Głębia - skokowiec. Tom 1"
+    },
+    {
+      "author": "Cixin Liu",
+      "title": "Problem Trzech ciał"
+    },
+    {
+      "author": "David Mitchell",
+      "title": "Cloud Atlas"
+    },
+    {
+      "author": "Kim Stanley Robinson",
+      "title": "Antarktyka"
+    },
+    {
+      "author": "Finansowy",
+      "title": "Ninja"
+    },
+    {
+      "author": "Bezsenność",
+      "title": "w Tokio"
+    },
+    {
+      "author": "Jerzy Ambroziewicz",
+      "title": "Zaraza"
+    },
+    {
+      "author": "Uderzenie",
+      "title": "w czerń"
+    },
+    {
+      "author": "Colin Thubron",
+      "title": "Za murem"
+    },
+    {
+      "author": "Jeff Sutherland",
+      "title": "Scrum w praktyce"
+    },
+    {
+      "author": "Scala",
+      "title": "with cats"
+    },
+    {
+      "author": "Stanisław Lem",
+      "title": "Eden"
+    },
+    {
+      "author": "Weir",
+      "title": "Artemis"
+    }
+  ],
+  "2018": [
+    {
+      "author": "Jo Nesbo",
+      "title": "Pierwszy śnieg"
+    },
+    {
+      "author": "Margarett Atwood",
+      "title": "Opowieści podręcznej"
+    },
+    {
+      "author": "Richard M. Morgan",
+      "title": "Modyfikowany Węgiel"
+    },
+    {
+      "author": "Jeff Vandermeer",
+      "title": "Annihiliation"
+    },
+    {
+      "author": "Jeff Vandermeer",
+      "title": "Acceptance"
+    },
+    {
+      "author": "Cixin Liu",
+      "title": "Ciemny las"
+    },
+    {
+      "author": "Ursula K. Le Guine",
+      "title": "Czarnoksiężnik z Archipelagu"
+    },
+    {
+      "author": "Jeff Vandermer",
+      "title": "Authority"
+    },
+    {
+      "author": "H.P.Lovecraft",
+      "title": "Kolory sztandarów"
+    },
+    {
+      "author": "Kołodziejczak",
+      "title": "Schwytany w światła"
+    },
+    {
+      "author": "Masłowska",
+      "title": "Jak przejąć kontrolę nad światem nie wychodząc z domu"
+    },
+    {
+      "author": "\"Codzienna",
+      "title": "walka\""
+    },
+    {
+      "author": "\"Jak",
+      "title": "schudnąć 30kg\""
+    },
+    {
+      "author": "Pat Flynn",
+      "title": "Gotowi na start"
+    },
+    {
+      "author": "\"Build",
+      "title": "your own neural network\""
+    },
+    {
+      "author": "Dorota Masłowska",
+      "title": "inni ludzie"
+    },
+    {
+      "author": "Cixin Liu",
+      "title": "Koniec śmierci"
+    },
+    {
+      "author": "\"The",
+      "title": "world without us\""
+    },
+    {
+      "author": "Richard Morgan",
+      "title": "Upadłe Anioły"
+    },
+    {
+      "author": "",
+      "title": "Hajstry\""
+    },
+    {
+      "author": "\"Functional",
+      "title": "and reactive Domain Modeling\""
+    },
+    {
+      "author": "Philip K. Dick",
+      "title": "Człowiek z wysokiego zamku"
+    },
+    {
+      "author": "\"Stąd",
+      "title": "do wieczności\""
+    },
+    {
+      "author": "Ursula K. Le Guine",
+      "title": "Grobowce Atuanu"
+    },
+    {
+      "author": "Bunnie Huang",
+      "title": "The HArdware Hacker"
+    },
+    {
+      "author": "Ursula K. Le Guine",
+      "title": "Odległy brzeg"
+    },
+    {
+      "author": "Joseph Conrad",
+      "title": "Jądro ciemności"
+    }
+  ],
+  "2019": [
+    {
+      "author": "Naval",
+      "title": "Ostatnich gryzą psy"
+    },
+    {
+      "author": "Ursula K. Le Guine",
+      "title": "Swiat Rocannoa"
+    },
+    {
+      "author": "Ursula K. Le Guine",
+      "title": "Planeta Wygnania"
+    },
+    {
+      "author": "Severski",
+      "title": "Zamęt"
+    },
+    {
+      "author": "Ursula K. Le Guine",
+      "title": "Słowo Las, znaczy świat"
+    },
+    {
+      "author": "",
+      "title": "Kenia"
+    },
+    {
+      "author": "Krew,",
+      "title": "pot i piksele"
+    },
+    {
+      "author": "Szpiedzy",
+      "title": "Mosadu i tajne wojny Izraela"
+    },
+    {
+      "author": "Ursula K. Le Guine",
+      "title": "Tehanu"
+    },
+    {
+      "author": "Black",
+      "title": "Book - Wolfenstein 3d"
+    },
+    {
+      "author": "\"Kolej",
+      "title": "podziemna\""
+    },
+    {
+      "author": "\"Dealers",
+      "title": "of lighting - xerox parc story\""
+    },
+    {
+      "author": "Yuval Noah Harari",
+      "title": "Sapiens"
+    },
+    {
+      "author": "Ursula K. Le Guine",
+      "title": "Miasto Iluzji"
+    },
+    {
+      "author": "Tochman",
+      "title": "Pianie koguta"
+    },
+    {
+      "author": "Kim Scott",
+      "title": "Radical Candor"
+    },
+    {
+      "author": "Domoradzki",
+      "title": "Kampucza jeden zero"
+    },
+    {
+      "author": "Pilipiuk",
+      "title": "Kuzynki"
+    },
+    {
+      "author": "Pilipiuk",
+      "title": "Księżniczka"
+    },
+    {
+      "author": "C. S. Friedman",
+      "title": "Obcy brzeg"
+    },
+    {
+      "author": "Grisham",
+      "title": "Samotny wilk"
+    },
+    {
+      "author": "Ursula K. Le Guine",
+      "title": "Left hand of darkness"
+    },
+    {
+      "author": "Alex Kerr",
+      "title": "Japonia utracona"
+    },
+    {
+      "author": "Rafał Majka",
+      "title": "Niebiańskie pastwiska"
+    },
+    {
+      "author": "\"5",
+      "title": "dysfunkcji pracy zespołowej\""
+    },
+    {
+      "author": "Dariusz",
+      "title": "Czaja..."
+    },
+    {
+      "author": "Brawl",
+      "title": "- komiks o II wojnie światowej"
+    },
+    {
+      "author": "Radek Koterski",
+      "title": "Włam się do mózgu"
+    },
+    {
+      "author": "Manson",
+      "title": "The subtle art of not giving a fuck"
+    }
+  ],
+  "2020": [
+    {
+      "author": "Andrzej Sapkowski",
+      "title": "Ostatnie Zyczenie"
+    },
+    {
+      "author": "Neal Stephneson",
+      "title": "Sevenevs"
+    },
+    {
+      "author": "Malcolm",
+      "title": "XD \"Pastrami"
+    },
+    {
+      "author": "Damien Lewis",
+      "title": "SAS - komandosi jej królewskej mości"
+    },
+    {
+      "author": "Corey",
+      "title": "Wojna Kalibana"
+    },
+    {
+      "author": "Ursua K . Le Guine",
+      "title": "Wydziedziczeni"
+    },
+    {
+      "author": "China Mieville",
+      "title": "Iron Council"
+    },
+    {
+      "author": "Corey",
+      "title": "Wrota Abaddona"
+    },
+    {
+      "author": "Corey",
+      "title": "Gorączka Cibolli"
+    },
+    {
+      "author": "Corey",
+      "title": "Persepolis Rising"
+    },
+    {
+      "author": "Greg Egan",
+      "title": "Radio Darwina"
+    },
+    {
+      "author": "Corey",
+      "title": "Tiamat's Wrath"
+    },
+    {
+      "author": "Corey",
+      "title": "Babylon Ashes"
+    },
+    {
+      "author": "Corey",
+      "title": "Nemesis Games"
+    },
+    {
+      "author": "Swiaty",
+      "title": "Rownoległe.. czego uczą nas płaskoziemcy"
+    },
+    {
+      "author": "Frederic Forsyth",
+      "title": "Psy wojny"
+    },
+    {
+      "author": "Dan Simons",
+      "title": "Hyperion"
+    },
+    {
+      "author": "Leander Kahney",
+      "title": "Tim Cook"
+    },
+    {
+      "author": "Jonathan Schell",
+      "title": "Prawdziwa Wojna, wietnam w ogniu"
+    },
+    {
+      "author": "Mroczna",
+      "title": "Otchłan 1 -"
+    },
+    {
+      "author": "Mroczna",
+      "title": "Otchłań 2 -"
+    },
+    {
+      "author": "Da simons",
+      "title": "Upadek Hyperiona"
+    },
+    {
+      "author": "Stanisław Lubieński",
+      "title": "Książka o śmieciach"
+    },
+    {
+      "author": "Hans Rosling",
+      "title": "Factfulness"
+    },
+    {
+      "author": "Robert J. Szmit",
+      "title": "Latwo być bogiem"
+    },
+    {
+      "author": "Roger Zelazny",
+      "title": "9 książąt Amberu"
+    },
+    {
+      "author": "China Mieville",
+      "title": "Embasytown"
+    },
+    {
+      "author": "Ben R. Rich",
+      "title": "Skunkworks"
+    },
+    {
+      "author": "Twardoch",
+      "title": "Król"
+    },
+    {
+      "author": "Cal Newport",
+      "title": "Deep work"
+    },
+    {
+      "author": "Bogowie",
+      "title": "z gwiazdozbioru Aquariusa"
+    },
+    {
+      "author": "Resident",
+      "title": "Alien"
+    }
+  ],
+  "2021": [
+    {
+      "author": "",
+      "title": "Szangrila"
+    },
+    {
+      "author": "Nnedi Okorafor",
+      "title": "Laguna"
+    },
+    {
+      "author": "Ola Budzyńska",
+      "title": "Dzieci i czas"
+    },
+    {
+      "author": "\"Krew",
+      "title": "Snajperów\""
+    },
+    {
+      "author": "Sławomir Koper, Arek Biedrzycki",
+      "title": "Polscy Szpiedzy"
+    },
+    {
+      "author": "Vincent V. Severski",
+      "title": "Christine"
+    },
+    {
+      "author": "Agata Jankowska, Michał Pozdał",
+      "title": "Męskie sprawy"
+    },
+    {
+      "author": "Adam Robiński",
+      "title": "Kiczery"
+    },
+    {
+      "author": "",
+      "title": "Przedwieczni"
+    },
+    {
+      "author": "1602",
+      "title": "https://en.wikipedia.org/wiki/Marvel_1602"
+    },
+    {
+      "author": "The",
+      "title": "Low"
+    },
+    {
+      "author": "James Harford",
+      "title": "Siergiej Korolow"
+    },
+    {
+      "author": "Alastair Reynolds",
+      "title": "Revelation Space"
+    },
+    {
+      "author": "Michal R. Wisniewski",
+      "title": "Wszyscy jestesmy cyborgami"
+    },
+    {
+      "author": "Lukasz Orbitowski",
+      "title": "zagadka Jana K."
+    },
+    {
+      "author": "Martha Wells",
+      "title": "All systems red"
+    },
+    {
+      "author": "Kim Zetter",
+      "title": "Countdown to zeroday - Stuxnet"
+    },
+    {
+      "author": "Alastair Reynolds",
+      "title": "Chasm City"
+    },
+    {
+      "author": "Roger Zelazny",
+      "title": "Aleja Potępionych"
+    },
+    {
+      "author": "Jacek Leociak",
+      "title": "Wieczne strapienie"
+    },
+    {
+      "author": "Jordan Mechner",
+      "title": "The Making of Prince of Persia"
+    },
+    {
+      "author": "Alastair Reynolds",
+      "title": "Redemption Ark"
+    },
+    {
+      "author": "Harry",
+      "title": "Potter i kamień filozoficzny"
+    },
+    {
+      "author": "Harry",
+      "title": "Potter i komnata tajemnic"
+    },
+    {
+      "author": "Harry",
+      "title": "Potter i więzień Azkabanu"
+    },
+    {
+      "author": "Harry",
+      "title": "Potter i czara ognia"
+    },
+    {
+      "author": "Steve",
+      "title": "Wozniak. Geniusz Apple. Wydanie II rozszerzone (https://audioteka.com/pl/audiobook/steve-wozniak-geniusz-apple)"
+    },
+    {
+      "author": "Peter Watts",
+      "title": "Rozgwiazda"
+    },
+    {
+      "author": "Harry",
+      "title": "Potter i zakon feniksa"
+    },
+    {
+      "author": "Peter Watts",
+      "title": "Wir"
+    },
+    {
+      "author": "Fabien Vehlmann, Ralph Meyer",
+      "title": "Ian - Wydanie zbiorcze"
+    },
+    {
+      "author": "Harry",
+      "title": "Potter i książe półkrwi"
+    },
+    {
+      "author": "Alastair Reynolds",
+      "title": "Absolution Gap"
+    },
+    {
+      "author": "Harry",
+      "title": "Potter i insygnia śmierci"
+    },
+    {
+      "author": "Peter Watts",
+      "title": "Wir"
+    },
+    {
+      "author": "Magdalena Grzebałtowska",
+      "title": "1945 Wojna i pokój"
+    },
+    {
+      "author": "Tom Wolfe",
+      "title": "Najlepsi - kowboje, którzy polecieli w kosmos"
+    },
+    {
+      "author": "Alice Lugen",
+      "title": "Tragedia na przełęczy Diatłowa, Historia bez końca"
+    },
+    {
+      "author": "Bill Gates",
+      "title": "Jak ocalic swiat"
+    },
+    {
+      "author": "Anders Ericsson, Robert Pool",
+      "title": "Droga na szczyt"
+    },
+    {
+      "author": "Peter Watts",
+      "title": "Behemoth"
+    },
+    {
+      "author": "Robert Harris",
+      "title": "V2"
+    }
+  ],
+  "2022": [
+    {
+      "author": "Eileen Ormsby",
+      "title": "Darknet"
+    },
+    {
+      "author": "Fear",
+      "title": "Agent"
+    },
+    {
+      "author": "Millar",
+      "title": "Chrononauts"
+    },
+    {
+      "author": "Millar",
+      "title": "Chrononauts vol 2"
+    },
+    {
+      "author": "Alastair Reynolds",
+      "title": "Galactic North"
+    },
+    {
+      "author": "Lukasz Godlewski",
+      "title": "Malarz"
+    },
+    {
+      "author": "Walter Isaacson",
+      "title": "The Code Breaker"
+    },
+    {
+      "author": "Matt Alt",
+      "title": "Czysty Wymysł"
+    },
+    {
+      "author": "Artur B. Chmielewski",
+      "title": "Kosmiczne wyzwania"
+    },
+    {
+      "author": "Arthur C. Clarke",
+      "title": "2010: Odyseja kosmiczna"
+    },
+    {
+      "author": "James S.A. Corey",
+      "title": "Leviathan Falls"
+    },
+    {
+      "author": "Secret",
+      "title": "Empire (Marvel) https://en.wikipedia.org/wiki/Secret_Empire_(comics)"
+    },
+    {
+      "author": "Dmitry Glukhovsky",
+      "title": "Outpost"
+    },
+    {
+      "author": "Marcin Wicha",
+      "title": "Rzeczy których nie wyrzuciłem"
+    },
+    {
+      "author": "Will Larson",
+      "title": "An Elegant Puzzle"
+    },
+    {
+      "author": "Marek Krajewski",
+      "title": "Liczby Harona"
+    },
+    {
+      "author": "Marek Krajewski",
+      "title": "Rzeki Hadesu"
+    },
+    {
+      "author": "Henry L. Roediger III, Mark A. McDaniel, and Peter C Brown",
+      "title": "Make it stick"
+    },
+    {
+      "author": "Janusz Zajdel",
+      "title": "Limes Inferior"
+    },
+    {
+      "author": "David Spiegelhalter",
+      "title": "The Art of Statistics, Learning from Data"
+    },
+    {
+      "author": "Michaił Zygar",
+      "title": "Wszyscy ludzie Kremla. Tajne życie dworu Władimira Putina"
+    },
+    {
+      "author": "Arkady Martine",
+      "title": "Pamięć zwana imperium"
+    },
+    {
+      "author": "William Kamkwamba, Bryan Mealer",
+      "title": "O chłopcu, który ujarzmił wiatr"
+    },
+    {
+      "author": "Chris Bailey",
+      "title": "Hyperfocus. How to work less and achieve more"
+    },
+    {
+      "author": "Kacper Śledziński",
+      "title": "Cichociemni, elita polskiej dywersji"
+    },
+    {
+      "author": "Al Ewing, Simone di Meo",
+      "title": "We only find them when they're dead"
+    },
+    {
+      "author": "Marcin Podlewski",
+      "title": "Głębia. Skokowiec"
+    },
+    {
+      "author": "Brian Christian, Tom Griffiths",
+      "title": "Algorithms to live by"
+    }
+  ],
+  "2023": [
+    {
+      "author": "Piotr Bernardyn",
+      "title": "Hongkong. Powiedz, że kochasz Chiny"
+    },
+    {
+      "author": "N.K. Jemisin",
+      "title": "The Fifth Season"
+    },
+    {
+      "author": "Robert J. Szmidt",
+      "title": "Apokalipsa według pana Jana"
+    },
+    {
+      "author": "Adam Grant",
+      "title": "Originals"
+    },
+    {
+      "author": "Andy McNab",
+      "title": "Kryptonim Bravo Two Zero"
+    },
+    {
+      "author": "Eric Lichtblau",
+      "title": "Sąsiedzi naziści"
+    },
+    {
+      "author": "Aleksandra Pawlicka",
+      "title": "Spitsbergen"
+    },
+    {
+      "author": "James Clear",
+      "title": "Atomowe nawyki"
+    },
+    {
+      "author": "Artur Domosławski",
+      "title": "Kapuściński non-fuction"
+    },
+    {
+      "author": "Fernanda Melchor",
+      "title": "To nie jest Miami"
+    },
+    {
+      "author": "Janusz Zajdel",
+      "title": "Paradyzja"
+    },
+    {
+      "author": "Andrzej Dragan",
+      "title": "Kwantechizm"
+    },
+    {
+      "author": "Tiago Forte",
+      "title": "Zbuduj swój drugi mózg"
+    },
+    {
+      "author": "Ian Stewart",
+      "title": "Liczby natury"
+    },
+    {
+      "author": "Ted Chiang",
+      "title": "Wydech"
+    },
+    {
+      "author": "Marek Szymaniak",
+      "title": "Zapaść"
+    },
+    {
+      "author": "\"Wykresy",
+      "title": "od Kuchni\" https://betaandbit.github.io/Wykresy/"
+    },
+    {
+      "author": "MAGDALENA RITTENHOUSE",
+      "title": "NOWY JORK, OD MANNAHATTY DO GROUND ZERO"
+    },
+    {
+      "author": "Hugh Howey",
+      "title": "Silos"
+    },
+    {
+      "author": "Jakub Sieczko",
+      "title": "Pogo"
+    },
+    {
+      "author": "Bajtek",
+      "title": "- historia, ebook"
+    },
+    {
+      "author": "Adam Allsuch Boardman",
+      "title": "Ufo, Ilustrowana historia"
+    },
+    {
+      "author": "Laurent Richard, Sandrine Rigaud",
+      "title": "Pegasus"
+    },
+    {
+      "author": "Ken Williams",
+      "title": "Nie każda bajka dobrze się kończy"
+    },
+    {
+      "author": "Michał Krasucki, Monika Powalisz",
+      "title": "Żol"
+    },
+    {
+      "author": "Cetnarowski",
+      "title": "2084"
+    },
+    {
+      "author": "Anne Applebaum",
+      "title": "Gułag"
+    },
+    {
+      "author": "Brian Augustyn, Mike Mignola, Eduardo Barreto",
+      "title": "Batman Noir. Gotham w świetle lamp gazowych"
+    }
+  ],
+  "2024": [
+    {
+      "author": "Hugh Howey",
+      "title": "Zmiana"
+    },
+    {
+      "author": "Bill Browder",
+      "title": "Czerwony Alert, jak zostałem wrogiem numer jeden Putina"
+    },
+    {
+      "author": "Mike Mignola i John Byrne",
+      "title": "Hellboy Tom 1, Nasienie zniszczenia, Obudzić diabła"
+    },
+    {
+      "author": "John Le Carre",
+      "title": "The Little Drummer Girl"
+    },
+    {
+      "author": "Bill Browder",
+      "title": "Mafia Putina"
+    },
+    {
+      "author": "Hugh Howey",
+      "title": "Pył"
+    },
+    {
+      "author": "Rafał Kosik",
+      "title": "Bez przypadku"
+    },
+    {
+      "author": "Remigiusz Mróz",
+      "title": "Projekt Riese"
+    },
+    {
+      "author": "Carlo Rovelli",
+      "title": "Seven Brief Lessons on Physics"
+    },
+    {
+      "author": "Richard P. Feynman",
+      "title": "Pan raczy żartować Panie Feynman!"
+    },
+    {
+      "author": "Jakub Rybicki",
+      "title": "Po Bajkale"
+    },
+    {
+      "author": "Herge",
+      "title": "- Przygody Tintina (W kraju sowietów, Tintin w Kongo)"
+    },
+    {
+      "author": "Clarissa Ward",
+      "title": "Na wszystkich frontach"
+    },
+    {
+      "author": "Javier Blas, Jack Farchy",
+      "title": "Swiat na sprzedaż"
+    },
+    {
+      "author": "Soule, MC Niven, Ross, Massimo",
+      "title": "Wojna łowców głów"
+    },
+    {
+      "author": "Peter Bramen",
+      "title": "Końce świata"
+    },
+    {
+      "author": "James Trefil, Michael Summers",
+      "title": "Wyobrażone życie"
+    },
+    {
+      "author": "Piotr Milewski",
+      "title": "Dzienniki japońskie"
+    },
+    {
+      "author": "Piotr Milewski",
+      "title": "Planeta K. Pięć lat w japońskiej korporacji"
+    },
+    {
+      "author": "Joanna Gierak-Onoszko",
+      "title": "27 śmierci Toby'ego Obeda"
+    },
+    {
+      "author": "George R.R. Martin",
+      "title": "Piaseczniki"
+    },
+    {
+      "author": "Wacław Radziwinowicz",
+      "title": "Putin - Car Atlantydy"
+    },
+    {
+      "author": "Joe Haldeman",
+      "title": "Forever War"
+    },
+    {
+      "author": "Paweł Pieniążek",
+      "title": "Po Kalifacie - nowa wojna w Syrii"
+    },
+    {
+      "author": "Dylan Dog",
+      "title": "Powrót potwora"
+    },
+    {
+      "author": "Marjane Satrapi",
+      "title": "Persepolis"
+    },
+    {
+      "author": "Jonathan Littel",
+      "title": "Czeczenia. Rok III"
+    },
+    {
+      "author": "Marjane Satrapi",
+      "title": "Persepolis - Powrót"
+    },
+    {
+      "author": "Lukasz Pawłowski",
+      "title": "Stany podzielone ameryki"
+    },
+    {
+      "author": "Craig Thompson",
+      "title": "Blankets"
+    },
+    {
+      "author": "Smolderen, Bertail",
+      "title": "Ghostmoney"
+    },
+    {
+      "author": "Andy Greenberg",
+      "title": "Sandworm"
+    },
+    {
+      "author": "Bernd Ruecker",
+      "title": "Practical Process Automation"
+    },
+    {
+      "author": "Sheen Brisals & Luke Hedger",
+      "title": "Serverless Development on AWS"
+    },
+    {
+      "author": "Brian P. Hogan",
+      "title": "Build Websites with Hugo"
+    },
+    {
+      "author": "Anthony Aragues",
+      "title": "Visualizing Streaming Data"
+    },
+    {
+      "author": "Nevil Shute",
+      "title": "Ostatni brzeg"
+    },
+    {
+      "author": "Jarek Szubrycht",
+      "title": "Skóra i ćwieki na wieki"
+    },
+    {
+      "author": "Caleb Carr",
+      "title": "Alienista"
+    },
+    {
+      "author": "Mustafa Suleyman",
+      "title": "Nadchodząca fala"
+    },
+    {
+      "author": "Star Trek",
+      "title": "Miasto na skraju wieczności"
+    },
+    {
+      "author": "Suita",
+      "title": "Apokaliptyczna. Umbrella Academy. Tom 1 - Gerard Way"
+    },
+    {
+      "author": "Dallas.",
+      "title": "Umbrella Academy. Tom 2 - Gerard Way"
+    },
+    {
+      "author": "Marek Wałkuski",
+      "title": "Zakamarki Białgo Domu"
+    },
+    {
+      "author": "Elizabeth Catte",
+      "title": "Czysta Ameryka. Przemilczana historia eugeniki"
+    },
+    {
+      "author": "Krzysztof Nowak",
+      "title": "Futuro Darko"
+    },
+    {
+      "author": "XIII",
+      "title": "- part 3"
+    }
+  ],
+  "2025": [
+    {
+      "author": "Dorota Masłowska",
+      "title": "Magiczna rana"
+    },
+    {
+      "author": "Neyef",
+      "title": "Hoka Hey!"
+    },
+    {
+      "author": "Henryk Grynberg",
+      "title": "Zwyciestwo"
+    },
+    {
+      "author": "Binyavanga Wainaina",
+      "title": "One Day I Will Writ about This Place"
+    },
+    {
+      "author": "Kristin Hannah",
+      "title": "Słowik"
+    },
+    {
+      "author": "Tara Westover",
+      "title": "Educated"
+    },
+    {
+      "author": "Paco Roca",
+      "title": "Powrót do Edenu"
+    },
+    {
+      "author": "Paco Roca",
+      "title": "Zmarszczki"
+    },
+    {
+      "author": "Michał Sledzinski",
+      "title": "Wartości rodzinne"
+    },
+    {
+      "author": "Fables",
+      "title": "- Bill Willingham - Baśnie z 1001 Nocy Królewny śnieżki"
+    },
+    {
+      "author": "Fables",
+      "title": "- Bill Willingham - Marsz Drewnianych żołnieżyków"
+    },
+    {
+      "author": "Tanabe Gou -",
+      "title": "W górach szaleństwa"
+    },
+    {
+      "author": "Tanabe Gou -",
+      "title": "Kolor z innego wrzechświata"
+    },
+    {
+      "author": "Magda Działoszyńska-Kossow",
+      "title": "San Francisco - Dziki brzeg wolności"
+    },
+    {
+      "author": "Marcin Napiórkowski, Mirosław Wlekły, Katarzyna Szyngiera -",
+      "title": "1989. Pozytywny mit"
+    },
+    {
+      "author": "Grzegorz Rosiński, André-Paul Duchâteau -",
+      "title": "Yans: Wydanie zbiorcze. Tom 1"
+    },
+    {
+      "author": "Anna J. Dudek",
+      "title": "Znikając"
+    },
+    {
+      "author": "Stoyan Stefanov",
+      "title": "React w działaniu"
+    },
+    {
+      "author": "Lukasz Orbitowski",
+      "title": "Wróg"
+    },
+    {
+      "author": "Andrew Lownie",
+      "title": "Anglik Stalina"
+    },
+    {
+      "author": "Daniel Gizicki, Krzysztof Małecki",
+      "title": "Postapo - Nienormalna normalność"
+    },
+    {
+      "author": "Daniel Gizicki, Krzysztof Małecki",
+      "title": "Postapo - Najpierw słychać grzmoty"
+    },
+    {
+      "author": "Daniel Gizicki, Krzysztof Małecki",
+      "title": "Postapo - Są łatwe i trudne wybory"
+    },
+    {
+      "author": "David E. Hoffman",
+      "title": "Szpieg za miliard dolarów"
+    },
+    {
+      "author": "Elena Ferrante",
+      "title": "Genialna przyjacióła"
+    },
+    {
+      "author": "Philippe Francq, Jean Van Hamme",
+      "title": "Largo Winch - Spadkobiercy"
+    },
+    {
+      "author": "Philippe Francq, Jean Van Hamme",
+      "title": "Largo Winch - Koncern W"
+    },
+    {
+      "author": "Philippe Francq, Jean Van Hamme",
+      "title": "Largo Winch - P.O.K."
+    },
+    {
+      "author": "Philippe Francq, Jean Van Hamme",
+      "title": "Largo Winch - Business Blues"
+    },
+    {
+      "author": "Jacek Dukaj",
+      "title": "Starość Aksolotla"
+    },
+    {
+      "author": "Roberto Recchioni, Werther Dell’Edera, Gigi Cavenago",
+      "title": "Batman. Dylan Dog/Batman. Cień nietoperza"
+    },
+    {
+      "author": "Jean",
+      "title": "Dufaux, Rosiński - Skarga utraconych ziem (wydanie zbiorcze)"
+    },
+    {
+      "author": "Grzegorz",
+      "title": "Rosiński, Yves Sente - Zemsta hrabiego Skarbka"
+    },
+    {
+      "author": "Siddharth Kara",
+      "title": "Krwawy Kobalt"
+    },
+    {
+      "author": "Antti Laaksonen",
+      "title": "Guide to Competitive Programming"
+    },
+    {
+      "author": "Eckart Frahm",
+      "title": "Asyria - Powstanie i upadek pierwszego imperium w historii świata"
+    },
+    {
+      "author": "Piotr Oczko",
+      "title": "Pocztówka z Mokum - 21 opowieści o Holandii"
+    },
+    {
+      "author": "Prosiak",
+      "title": "Będziesz smażyć się w piekle"
+    },
+    {
+      "author": "Andy Weir",
+      "title": "Hail Marry"
+    },
+    {
+      "author": "Jacek Dukaj",
+      "title": "Linia oporu"
+    },
+    {
+      "author": "Jacek Dukaj",
+      "title": "Oko potwora"
+    },
+    {
+      "author": "Jacek Dukaj",
+      "title": "Król bólu"
+    },
+    {
+      "author": "Marek Szyszko",
+      "title": "Ostatnia Przystań"
+    },
+    {
+      "author": "Marcin Jacoby",
+      "title": "Chiny bez makijażu"
+    },
+    {
+      "author": "Sylwia Czubkowska",
+      "title": "Chińczycy trzymają nas mocno"
+    },
+    {
+      "author": "Ed Brubaker, Sean Phillips",
+      "title": "Zabij albo zgiń"
+    },
+    {
+      "author": "Matt Parker",
+      "title": "Pi razy oko"
+    },
+    {
+      "author": "Richard Stark",
+      "title": "Parker - edycja martini"
+    },
+    {
+      "author": "Riad Sattouf",
+      "title": "Arab przyszłości 1"
+    },
+    {
+      "author": "Riad Sattouf",
+      "title": "Arab przyszłości 2"
+    },
+    {
+      "author": "Riad Sattouf",
+      "title": "Arab przyszłości 3"
+    },
+    {
+      "author": "Riad Sattouf",
+      "title": "Arab przyszłości 4"
+    },
+    {
+      "author": "Tove Ditlevsen",
+      "title": "Trylogia kopenhaska"
+    },
+    {
+      "author": "Kurt Vonnegut, Ryan North, Albert Monteys",
+      "title": "Rzeźnia number pieć czyli krucjata dziecieca"
+    },
+    {
+      "author": "Harper Lee, Fred Fordham",
+      "title": "Harper Lee"
+    },
+    {
+      "author": "Ursula K. Le Guin",
+      "title": "Słowo las znaczy świat"
+    },
+    {
+      "author": "Brubaker, Phillips, Wilson",
+      "title": "Spioch"
+    },
+    {
+      "author": "Stan Sakai",
+      "title": "Usagi Yojimbo - Ronin"
+    },
+    {
+      "author": "Stan Sakai",
+      "title": "Usagi Yojimbo - Daisho"
+    },
+    {
+      "author": "Stan Sakai",
+      "title": "Usagi Yojimbo - Samuraj"
+    },
+    {
+      "author": "Stan Sakai",
+      "title": "Usagi Yojimbo - Polowanie na lisa"
+    },
+    {
+      "author": "Alan Moore, David Lloyd",
+      "title": "V for Vendetta"
+    },
+    {
+      "author": "Riad Sattouf",
+      "title": "Arab przyszłości 5"
+    },
+    {
+      "author": "Riad Sattouf",
+      "title": "Arab przyszłości 6"
+    },
+    {
+      "author": "Riad Sattouf",
+      "title": "Arab przyszłości - Ja, Fadi - Porwany Brat 1"
+    },
+    {
+      "author": "David Grann",
+      "title": "Czas krwawego księżyca"
+    },
+    {
+      "author": "Tom Gauld",
+      "title": "Instytut bombowych teorii"
+    },
+    {
+      "author": "Marcin Faliński",
+      "title": "Obietnica zdrady"
+    },
+    {
+      "author": "Guarnido",
+      "title": "Blacksad - Arktyczni"
+    },
+    {
+      "author": "Brubaker",
+      "title": "Wszyscy moi bohaterowie to ćpuny"
+    },
+    {
+      "author": "Guarnido",
+      "title": "Blacksad - Pośród cieni"
+    },
+    {
+      "author": "Guy Delisle",
+      "title": "Kroniki jerozolimskie"
+    },
+    {
+      "author": "Cosey",
+      "title": "W poszukiwaniu Piotrusia Pana"
+    },
+    {
+      "author": "Iain M. Banks",
+      "title": "Consider Phlebas"
+    },
+    {
+      "author": "X-Men",
+      "title": "- Punkty zwrotne, kompleks Mesjasza"
+    },
+    {
+      "author": "John Hersey",
+      "title": "Hiroszima"
+    },
+    {
+      "author": "Guy Delisle",
+      "title": "Kroniki Birmanskie"
+    }
+  ]
+}
