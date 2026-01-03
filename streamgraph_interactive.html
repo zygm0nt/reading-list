@@ -105,16 +105,61 @@
             }
             
             // Znajdujemy najbliższy rok z dostępnych lat w booksData
-            const hoverYear = point.x;
-            const availableYears = Object.keys(booksData).map(y => parseInt(y)).sort((a, b) => a - b);
-            let closestYear = availableYears[0];
-            let minDiff = Math.abs(hoverYear - closestYear);
+            // Dla wypełnionych obszarów, point.x może nie być dokładne, więc używamy pozycji myszy
+            let hoverYear = null;
             
-            for (let i = 0; i < availableYears.length; i++) {
-                const diff = Math.abs(hoverYear - availableYears[i]);
-                if (diff < minDiff) {
-                    minDiff = diff;
-                    closestYear = availableYears[i];
+            // Próbujemy użyć pozycji myszy z eventu do obliczenia roku
+            if (data.event && plotData.layout.xaxis && plotData.layout.xaxis.range) {
+                const xaxisRange = plotData.layout.xaxis.range;
+                const bbox = plotDiv.getBoundingClientRect();
+                const xPixel = data.event.clientX - bbox.left;
+                
+                // Używamy marginesów z layout lub domyślnych wartości
+                let marginLeft = 50;
+                let marginRight = 50;
+                
+                if (plotDiv._fullLayout && plotDiv._fullLayout.margin) {
+                    marginLeft = plotDiv._fullLayout.margin.l || marginLeft;
+                    marginRight = plotDiv._fullLayout.margin.r || marginRight;
+                } else if (plotData.layout.margin) {
+                    marginLeft = plotData.layout.margin.l || marginLeft;
+                    marginRight = plotData.layout.margin.r || marginRight;
+                }
+                
+                const plotWidth = bbox.width - marginLeft - marginRight;
+                const plotX = xPixel - marginLeft;
+                
+                if (plotWidth > 0 && plotX >= 0 && plotX <= plotWidth) {
+                    const xFraction = plotX / plotWidth;
+                    hoverYear = xaxisRange[0] + xFraction * (xaxisRange[1] - xaxisRange[0]);
+                }
+            }
+            
+            // Jeśli nie udało się obliczyć z eventu, próbujemy użyć point.x
+            if (hoverYear === null || isNaN(hoverYear) || !isFinite(hoverYear)) {
+                let hoverYearRaw = point.x;
+                if (Array.isArray(hoverYearRaw)) {
+                    // Dla tablicy, bierzemy średnią z pierwszych i ostatnich wartości
+                    const mid = Math.floor(hoverYearRaw.length / 2);
+                    hoverYearRaw = hoverYearRaw[mid] || hoverYearRaw[0];
+                }
+                hoverYear = typeof hoverYearRaw === 'number' ? hoverYearRaw : Number(hoverYearRaw);
+            }
+            
+            const availableYears = Object.keys(booksData).map(y => parseInt(y)).sort((a, b) => a - b);
+            
+            // Znajdź najbliższy rok używając odległości
+            let closestYear = availableYears[0];
+            
+            if (!isNaN(hoverYear) && isFinite(hoverYear)) {
+                let minDiff = Math.abs(hoverYear - closestYear);
+                
+                for (let i = 0; i < availableYears.length; i++) {
+                    const diff = Math.abs(hoverYear - availableYears[i]);
+                    if (diff < minDiff) {
+                        minDiff = diff;
+                        closestYear = availableYears[i];
+                    }
                 }
             }
             
