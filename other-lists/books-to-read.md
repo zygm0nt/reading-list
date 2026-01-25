@@ -3,6 +3,7 @@
 - Culture series https://en.wikipedia.org/wiki/Culture_series - from Iain M. Banks
   - [x] Wspomnienie Phlebasa"
   - Gracz
+- Philip José Farmer - Gdzie wasze ciała porzucone (https://lubimyczytac.pl/ksiazka/3957/gdzie-wasze-ciala-porzucone)
 - Rebeca Ore "Zabawki Gai"
 - Lary Niven "Pierścień"
 -  Pyłek w Oku Boga  - https://lubimyczytac.pl/ksiazka/5063634/pylek-w-oku-boga
@@ -80,6 +81,9 @@
 * [ ] COLIN THUBRON - CIEŃ JEDWABNEGO SZLAKU
 * [ ] https://czarne.com.pl/katalog/ksiazki/podziemie
 * [ ] https://czarne.com.pl/katalog/ksiazki/cyrk-polski
+* [ ] David van Reybrouck
+  * [ ] Kongo https://lubimyczytac.pl/ksiazka/263917/kongo-opowiesc-o-zrujnowanym-kraju
+  * [ ] Revolusi - Indonezja (https://lubimyczytac.pl/ksiazka/5130149/revolusi-indonezja-i-narodziny-nowoczesnego-swiata)
 
 ## History
 
@@ -149,6 +153,9 @@
 
 ## Reportaże
 
+- https://lubimyczytac.pl/autor/87409/marcin-jacoby -
+  -   https://lubimyczytac.pl/ksiazka/5162704/chiny-bez-makijazu
+  -   https://lubimyczytac.pl/ksiazka/5172501/tajwan-herbatka-na-beczce-prochu
 - Kamila SŁawińska "Nowy Jork Przewodnik niepraktyczny"
 - Anna Ikeda "Zycie jak w Tochigi"
 - Dorota Warakomska "Droga 66"
