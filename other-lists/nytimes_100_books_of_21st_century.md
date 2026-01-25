@@ -5,18 +5,18 @@ https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 * My Brilliant Friend
 * The Warmth of Other Suns
 *  Wolf Hall
-*   Never Let Me Go
-*    The Road
-*     Lincoln in the Bardo
+*  Never Let Me Go
+*  The Road
+*  Lincoln in the Bardo
 *  Say Nothing
-*   Cloud Atlas
-*    The Last Samurai 
-*    White Teeth
-*     A Visit From the Goon Squad
+*  Cloud Atlas
+*  The Last Samurai 
+*  White Teeth
+*  A Visit From the Goon Squad
 * A Brief History of Seven Killings
 * Postwar
 *  The Plot Against America
-*  The Copenhagen Trilogy
+* [x]  The Copenhagen Trilogy
 *  When We Cease to Understand the World
 *  The Emperor of All Maladies
 *  On Beauty
