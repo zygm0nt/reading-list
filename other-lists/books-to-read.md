@@ -1,7 +1,7 @@
 ## Sci-fi
 
 - Culture series https://en.wikipedia.org/wiki/Culture_series - from Iain M. Banks
-  [x] Wspomnienie Phlebasa"
+  - [x] Wspomnienie Phlebasa"
   - Gracz
 - Rebeca Ore "Zabawki Gai"
 - Lary Niven "Pierścień"
