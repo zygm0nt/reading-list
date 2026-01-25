@@ -1,7 +1,7 @@
 ## Sci-fi
 
 - Culture series https://en.wikipedia.org/wiki/Culture_series - from Iain M. Banks
-  - Wspomnienie Phlebasa"
+  [x] Wspomnienie Phlebasa"
   - Gracz
 - Rebeca Ore "Zabawki Gai"
 - Lary Niven "Pierścień"
@@ -31,7 +31,6 @@
   - "Metropolita" + "Miasto w ogniu"
 - books about first contact
   - Carl Sagan "Contact"
-  - Lary Niven "The Mote in God's eye"
   - Robert Charles Wilson "Spin"
   - Greg Bear "Eon"
 -  Marek Huberath "Balsam długiego pożegnania"
@@ -73,7 +72,7 @@
  * [ ] Confessions of an Advertising Man - https://www.goodreads.com/book/show/44895.Confessions_of_an_Advertising_Man
  * [ ] David Grann
    * [ ] The Wager: A Tale of Shipwreck, Mutiny and Murder (https://www.goodreads.com/book/show/61714633-the-wager?ref=rae_0)
-   * [ ] Killers of the Flower Moon (!!) https://www.davidgrann.com/book/killers-of-the-flower-moon/
+   * [x] Killers of the Flower Moon (!!) https://www.davidgrann.com/book/killers-of-the-flower-moon/
  * [ ] There Will Be Fire: Margaret Thatcher, the IRA, and Two Minutes That Changed History https://www.goodreads.com/book/show/61420116-there-will-be-fire?ref=rae_2
  * [ ] A Fever in the Heartland: The Ku Klux Klan's Plot to Take Over America, and the Woman Who Stopped Them https://www.goodreads.com/book/show/61423989-a-fever-in-the-heartland?ref=rae_1
 * [ ] JOHN GIMLETTE - TEATR RYB
@@ -169,7 +168,7 @@
 
 - Paweł Pieniążek "Opór. Ukraińcy wobec rosyjskiej inwazji "
 -  Imperium. Podróż po Cesarstwie Rzymskim śladem jednej monety
-- Paweł Tarczyński  "Rozkład. O niedemokracji w Ameryce "
+- Piotr Tarczyński  "Rozkład. O niedemokracji w Ameryce "
 
 
 
@@ -191,7 +190,7 @@
 
 ## Naukowe
 
-- John Barrow "Pi razy drzwi"
+[x] John Barrow "Pi razy drzwi"
 - Krauss "Fizyka podrózy międzygwiezdnych"
 - Ciesielski, Pogoda "Diamenty matematyki"
 - Zubrin, Wagner "Czas Marsa"
@@ -212,7 +211,7 @@
 ## Komiksy
 
 - The Good Asian. Dobry Azjata.
--  Skarga Utraconych Ziem
+[x]  Skarga Utraconych Ziem
 -  Wilk morski
 -   Zniszczyć wszystkie potwory 
 * [ ] saga compendium - komiks
@@ -243,7 +242,7 @@
  * [ ] SPQR, a history of ancient Rome - Mary Beard
  * [ ] Twelve caesars - Mary Beard
  * [ ] Attac on titan - omnibus
- * [ ] The Seven Million Dollar Spy by David Wise (Paweł ma)
+ * [x] The Seven Million Dollar Spy by David Wise (Paweł ma)
  * [ ] Probably Overthinking It: How to Use Data to Answer Questions, Avoid Statistical Traps, and Make Better Decisions 
 
 ## On math people
