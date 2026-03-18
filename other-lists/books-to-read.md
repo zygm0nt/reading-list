@@ -197,7 +197,7 @@
 
 ## Naukowe
 
-[x] John Barrow "Pi razy drzwi"
+- [x] John Barrow "Pi razy drzwi"
 - Krauss "Fizyka podrózy międzygwiezdnych"
 - Ciesielski, Pogoda "Diamenty matematyki"
 - Zubrin, Wagner "Czas Marsa"
@@ -218,7 +218,7 @@
 ## Komiksy
 
 - The Good Asian. Dobry Azjata.
-[x]  Skarga Utraconych Ziem
+- [x]  Skarga Utraconych Ziem
 -  Wilk morski
 -   Zniszczyć wszystkie potwory 
 * [ ] saga compendium - komiks
