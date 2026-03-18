@@ -211,7 +211,6 @@
 ## Po angielsku
 
 - Zehe Faux "Number go up" (crypto)
-- Cameron McWhirter "America gun - the true story of the AR-15"
 - https://www.gatesnotes.com/The-Song-of-the-Cell
 - [x] "Tracers in the dark" https://lubimyczytac.pl/ksiazka/5037022/tracers-in-the-dark-the-global-hunt-for-the-crime-lords-of-cryptocurrency
 
