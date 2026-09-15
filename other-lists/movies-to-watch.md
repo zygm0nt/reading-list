@@ -4,11 +4,11 @@
 - [ ] Midnight Mass (Netflix)
 - [ ] Station Eleven (HBO)
 - [ ] The Symphatizer
-- [ ] Tokyo Vice
+- [x] Tokyo Vice
 - [x] Scavengers Reign
 - [ ] Samurai Jack
 - [ ] Batham: The Doom that came to Gotham
-- [ ] Children of Men
+- [x] Children of Men
 - [ ] Close Encounters of The Third Kind
 - [ ] Men
 - [x] Blade Runner
