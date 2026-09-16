@@ -82,7 +82,7 @@
 * [ ] https://czarne.com.pl/katalog/ksiazki/podziemie
 * [ ] https://czarne.com.pl/katalog/ksiazki/cyrk-polski
 * [ ] David van Reybrouck
-  * [ ] Kongo https://lubimyczytac.pl/ksiazka/263917/kongo-opowiesc-o-zrujnowanym-kraju
+  * [x] Kongo https://lubimyczytac.pl/ksiazka/263917/kongo-opowiesc-o-zrujnowanym-kraju
   * [ ] Revolusi - Indonezja (https://lubimyczytac.pl/ksiazka/5130149/revolusi-indonezja-i-narodziny-nowoczesnego-swiata)
 
 ## History
